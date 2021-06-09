@@ -1,8 +1,7 @@
 # Rules
 自用clash规则
 
-如需使用，请直接在订阅转换器内使用订阅转换规则：
-https://raw.githubusercontent.com/zy41501/Rules/main/%E8%A7%84%E5%88%99/%E8%AE%A2%E9%98%85%E8%BD%AC%E6%8D%A2%E8%A7%84%E5%88%99.ini
+请在订阅转换器内使用[订阅转换规则](https://raw.githubusercontent.com/zy41501/Rules/main/%E8%A7%84%E5%88%99/%E8%AE%A2%E9%98%85%E8%BD%AC%E6%8D%A2%E8%A7%84%E5%88%99.ini)
 
 rule基于lhie1大佬规则修改
 
