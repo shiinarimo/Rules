@@ -1,6 +1,7 @@
 # Rules
-自用
-基于lhie1大佬规则修改
+自用规则
+rule基于lhie1大佬规则修改
+Online.ini基于ACL4SSR修改
 - 修改策略组名称为中文
 - 更换steam、Domestic规则源为 LM-Firefly/Rules/master/Clash-RuleSet-Classical/
 - 更换amazon规则源为自定义，去除cn域名规则，便于单独使用amazon服务
