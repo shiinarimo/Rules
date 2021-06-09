@@ -3,6 +3,7 @@
 
 如需要使用，请调整配置文件
 Online.ini需要替换或去掉🗺️ 自定义代理,📍 自定义拦截,⛩️ 自定义直连
+
 Rule.yaml需要替换或去掉对应的addproxy、addblock、adddirect
 
 rule基于lhie1大佬规则修改
