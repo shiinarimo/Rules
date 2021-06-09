@@ -18,6 +18,6 @@ lhie1 / Rules
 
 LM-Firefly / Rules
 
-ACL4SSR / ACL4SSR / master / Clash
+ACL4SSR / ACL4SSR
 
 DivineEngine / Profiles
