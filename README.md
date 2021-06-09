@@ -3,9 +3,9 @@
 
 请在订阅转换器内使用[订阅转换规则](https://raw.githubusercontent.com/zy41501/Rules/main/%E8%A7%84%E5%88%99/%E8%AE%A2%E9%98%85%E8%BD%AC%E6%8D%A2%E8%A7%84%E5%88%99.ini)
 
-rule基于lhie1大佬规则修改
+基于lhie1大佬规则修改
 
-Online.ini基于ACL4SSR修改
+基于ACL4SSR修改
 
 - 修改策略组名称
 - 更换steam、Domestic规则源为 LM-Firefly/Rules/master/Clash-RuleSet-Classical/
