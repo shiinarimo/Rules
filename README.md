@@ -1,9 +1,8 @@
 # Rules
-自用clash规则，请按需调整配置文件
+自用clash规则
 
-Online.ini需要替换或去掉🗺️ 自定义代理,📍 自定义拦截,⛩️ 自定义直连
-
-Rule.yaml需要替换或去掉对应的addproxy、addblock、adddirect
+如需使用，请直接在订阅转换器内使用订阅转换规则：
+https://raw.githubusercontent.com/zy41501/Rules/main/%E8%A7%84%E5%88%99/%E8%AE%A2%E9%98%85%E8%BD%AC%E6%8D%A2%E8%A7%84%E5%88%99.ini
 
 rule基于lhie1大佬规则修改
 
