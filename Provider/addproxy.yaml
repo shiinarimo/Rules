@@ -1,3 +1,6 @@
 payload: 
  # > ？？？
   - DOMAIN-KEYWORD,dlercloud
+ # > 自用mastodon/pleroma
+  - DOMAIN-SUFFIX,shiina-rimo.cafe
+  - DOMAIN-SUFFIX,friends.cafe
