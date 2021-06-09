@@ -8,7 +8,9 @@ Online.ini需要替换或去掉🗺️ 自定义代理,📍 自定义拦截,⛩�
 Rule.yaml需要替换或去掉对应的addproxy、addblock、adddirect
 
 rule基于lhie1大佬规则修改
+
 Online.ini基于ACL4SSR修改
+
 - 修改策略组名称
 - 更换steam、Domestic规则源为 LM-Firefly/Rules/master/Clash-RuleSet-Classical/
 - 替换为自定义amazon规则，不含cn域名，便于拆分使用amazon国内外服务
