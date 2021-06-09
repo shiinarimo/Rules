@@ -74,6 +74,7 @@ rules:
 
 - RULE-SET,Addproxy,Add-proxy
 - RULE-SET,Addblock,Add-block
+- RULE-SET,Adddirect,Add-direct
 
 script:
   code: |
@@ -131,6 +132,7 @@ script:
             "Domestic IPs": "CN-service",
             "Addproxy": "Add-proxy",
             "Addblock": "Add-block",
+            "Addirect": "Add-direct",
             "LAN": "DIRECT"
             }
         port = int(metadata["dst_port"])
@@ -477,4 +479,10 @@ rule-providers:
     behavior: classical
     url: 'https://raw.githubusercontent.com/zy41501/Rules/main/Provider/addblock.yaml'
     path: ./Rules/Addblock
+    interval: 86400	
+  Adddirect:
+    type: http
+    behavior: classical
+    url: 'https://raw.githubusercontent.com/zy41501/Rules/main/Provider/adddirect.yaml'
+    path: ./Rules/Adddirect
     interval: 86400	
