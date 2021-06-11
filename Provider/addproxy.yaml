@@ -9,3 +9,8 @@ payload:
  # > eh
   - DOMAIN-SUFFIX,exhentai.org
   - DOMAIN-SUFFIX,e-hentai.org
+  - DOMAIN-SUFFIX,ehwiki.org
+  - DOMAIN-SUFFIX,hentaiverse.org
+ # > 图站
+  - DOMAIN-SUFFIX,konachan.com
+  - DOMAIN-SUFFIX,yande.re
