@@ -11,8 +11,6 @@
 - 更换steam、Domestic规则源为 LM-Firefly/Rules/master/Clash-RuleSet-Classical/
 - 替换为自定义amazon规则，不含cn域名，便于拆分使用amazon国内外服务
 - 添加niconico规则 
- 
-   // niconico部分视频播放依赖AWS（media-amazon.com），该条域名添加在amazon规则下
 - 添加Twitter、Facebook规则源（LM-Firefly/Rules/master/Clash-RuleSet-Classical/PROXY/），并与Telegram、Discord合并入SNS
 - 添加Adblock（LM-Firefly/Rules/master/Clash-RuleSet-Classical/Adblock/）
 - 去除部分重复规则
