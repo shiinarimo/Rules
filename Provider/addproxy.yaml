@@ -16,3 +16,5 @@ payload:
   - DOMAIN-SUFFIX,yande.re
   # > nyaa
   - DOMAIN-SUFFIX,nyaa.si
+  # > Kiite(キイテ)
+  - DOMAIN-SUFFIX,kiite.jp
