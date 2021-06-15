@@ -14,3 +14,5 @@ payload:
  # > 图站
   - DOMAIN-SUFFIX,konachan.com
   - DOMAIN-SUFFIX,yande.re
+  # > nyaa
+  - DOMAIN-SUFFIX,nyaa.si
