@@ -142,5 +142,5 @@ payload:
   - DOMAIN-SUFFIX,wholefoodsmarket.com
   - DOMAIN-SUFFIX,wholekidsfoundation.org
   - DOMAIN-SUFFIX,wholeplanetfoundation.org
-  ## >> AWS（niconico）
-  - DOMAIN-SUFFIX,media-amazon.com
+  ## >> AWS
+  ##- DOMAIN-SUFFIX,media-amazon.com
