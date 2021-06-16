@@ -3,6 +3,8 @@
 
 请在订阅转换器内使用[订阅转换规则](https://raw.githubusercontent.com/zy41501/Rules/main/%E8%A7%84%E5%88%99/%E8%AE%A2%E9%98%85%E8%BD%AC%E6%8D%A2%E8%A7%84%E5%88%99.ini)
 
+请不要使用Online.ini，该文件根据自用需求进行了各种精简，缺失大量规则，不适合直接使用
+
 基于lhie1大佬规则修改
 
 基于ACL4SSR修改
