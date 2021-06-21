@@ -5,9 +5,9 @@
 
 请不要使用Online.ini，该文件根据自用需求进行了各种精简，缺失大量规则，不适合直接使用
 
-基于lhie1大佬规则修改
 
-基于ACL4SSR修改
+
+修改自ACL4SSR及lhie1规则
 
 - 修改策略组名称
 - 更换steam、Domestic规则源为 LM-Firefly/Rules/master/Clash-RuleSet-Classical/
