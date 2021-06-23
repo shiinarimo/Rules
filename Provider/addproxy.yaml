@@ -21,3 +21,5 @@ payload:
   - DOMAIN-SUFFIX,kiite.jp
   # > cangku/cangku媒体
   - DOMAIN-SUFFIX,cangku.io
+  # > 比特梵德域名（尝试）
+  - DOMAIN-SUFFIX,bitdefender.net
