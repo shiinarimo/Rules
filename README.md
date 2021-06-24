@@ -7,7 +7,7 @@
 
 | 使用到的自建规则 | 包含内容 |
 | --- | --- |
-| Amazon.yaml | prime video / music |
+| Amazon.yaml | 海外Amazon（包括prime video / music） |
 | Media / NicoNico.yaml | - | 
 | Overseas games.yaml | IDOLY PRIDE アイドリープライド |
 
