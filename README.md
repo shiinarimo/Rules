@@ -11,6 +11,8 @@
 | Media / NicoNico.yaml | - | 
 | Overseas games.yaml | IDOLY PRIDE アイドリープライド |
 
+自建规则仅为特定网站及应用补充缺失规则，不建议单独使用
+
 # 感谢
 
 lhie1 / Rules
