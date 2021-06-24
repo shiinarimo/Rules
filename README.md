@@ -1,23 +1,16 @@
 # Rules
-自用clash规则
+自用clash规则,修改自ACL4SSR
 
-请在订阅转换器内使用[订阅转换规则](https://raw.githubusercontent.com/zy41501/Rules/main/%E8%A7%84%E5%88%99/%E8%AE%A2%E9%98%85%E8%BD%AC%E6%8D%A2%E8%A7%84%E5%88%99.ini)
+在订阅转换器内使用[订阅规则.ini](https://raw.githubusercontent.com/zy41501/Rules/main/%E8%AE%A2%E9%98%85%E8%A7%84%E5%88%99.ini)
 
-请不要使用Online.ini，该文件根据自用需求进行了各种精简，缺失大量规则，不适合直接使用
+请勿使用Online.ini，该规则根据个人需求进行过精简
 
-
-
-修改自ACL4SSR及lhie1规则
-
-- 修改策略组名称
-- 更换steam、Domestic规则源为 LM-Firefly/Rules/master/Clash-RuleSet-Classical/
-- 替换为自定义amazon规则，不含cn域名，便于拆分使用amazon国内外服务
-- 添加niconico规则 
-- 添加Twitter、Facebook规则源（LM-Firefly/Rules/master/Clash-RuleSet-Classical/PROXY/），并与Telegram、Discord合并入SNS
-- 添加Adblock（LM-Firefly/Rules/master/Clash-RuleSet-Classical/Adblock/）
-- 去除部分重复规则
-
-因谷歌ip定位问题YouTube premium易失效，需要经常更换ip，youtube及youtube music单独拆出
+| 使用到的自建规则 | 包含内容 |
+| --- | --- |
+| Amazon | prime video / music |
+| NicoNico | - | 
+| 📢 音乐/🌍 流媒体 | （自建规则） |
+| ⛩️ 游戏 | IDOLY PRIDE アイドリープライド |
 
 # 感谢
 
