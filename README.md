@@ -7,11 +7,11 @@
 
 | 使用到的自建规则 | 包含内容 |
 | --- | --- |
-| Amazon.yaml | 海外Amazon（包括prime video / music） |
+| Amazon.yaml | 海外Amazon（prime video / music） ，不含.cn域名 |
 | Media / NicoNico.yaml | Niconico动画 / 漫画 / 直播 | 
 | Overseas games.yaml | IDOLY PRIDE アイドリープライド |
 
-自建规则仅为特定网站及应用补充缺失规则，不建议单独使用
+自建规则仅作主要规则的补充，不建议单独使用
 
 # 感谢
 
