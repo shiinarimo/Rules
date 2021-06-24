@@ -7,10 +7,9 @@
 
 | 使用到的自建规则 | 包含内容 |
 | --- | --- |
-| Amazon | prime video / music |
-| NicoNico | - | 
-| 📢 音乐/🌍 流媒体 | （自建规则） |
-| ⛩️ 游戏 | IDOLY PRIDE アイドリープライド |
+| Amazon.yaml | prime video / music |
+| Media / NicoNico.yaml | - | 
+| Overseas games.yaml | IDOLY PRIDE アイドリープライド |
 
 # 感谢
 
