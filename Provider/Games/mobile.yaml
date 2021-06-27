@@ -10,4 +10,6 @@ payload:
   ## > プロジェクトセカイ カラフルステージ！
   - DOMAIN-SUFFIX,sekai.colorfulpalette.org
   ## > DMM jp
-  - DOMAIN-SUFFIX,dmm.com
+  - DOMAIN-SUFFIX,games.dmm.com
+  - DOMAIN-SUFFIX,tag-api.dmm.com
+  - DOMAIN-SUFFIX,dtm.dmm.com
