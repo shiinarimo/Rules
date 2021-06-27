@@ -6,4 +6,4 @@ payload:
   - DOMAIN-SUFFIX,game-idolypride.jp
   ## > BanG Dream!（バンドリ！）
   - DOMAIN-SUFFIX,craftegg.jp
-  ##- DOMAIN-SUFFIX,cloudfront.net  //cloudfront包含在proxy规则
+  ##- DOMAIN-SUFFIX,cloudfront.net  //包含在proxy规则
