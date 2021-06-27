@@ -7,3 +7,5 @@ payload:
   ## > BanG Dream!（バンドリ！）
   - DOMAIN-SUFFIX,craftegg.jp
   ##- DOMAIN-SUFFIX,cloudfront.net  //包含在proxy规则
+  ## > プロジェクトセカイ カラフルステージ！
+  - DOMAIN-SUFFIX,sekai.colorfulpalette.org
