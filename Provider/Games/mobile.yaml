@@ -11,12 +11,7 @@ payload:
   - DOMAIN-SUFFIX,sekai.colorfulpalette.org
   ## > DMM
   - DOMAIN-SUFFIX,dmm.com
-  ##- DOMAIN-SUFFIX,www.dmm.com
-  ##- DOMAIN-SUFFIX,games.dmm.com
-  ##- DOMAIN-SUFFIX,tag-api.dmm.com
-  ##- DOMAIN-SUFFIX,dtm.dmm.com
-  ##- DOMAIN-SUFFIX,special.dmm.com
-     ## > 艦これ （html5+android）
+   ## > 艦これ （html5+android）
   - DOMAIN-SUFFIX,urbanairship.com
   - IP-CIDR,125.6.189.215/32
   - IP-CIDR,203.104.209.7/32
