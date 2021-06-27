@@ -1,7 +1,7 @@
 payload: 
  # > ？？？
   - DOMAIN-KEYWORD,dlercloud
- # > 自用mastodon/pleroma
+ # > mastodon/pleroma
   - DOMAIN-SUFFIX,shiina-rimo.cafe
   - DOMAIN-SUFFIX,friends.cafe
   - DOMAIN-SUFFIX,pawoo.net
@@ -11,7 +11,7 @@ payload:
   - DOMAIN-SUFFIX,ehwiki.org
   - DOMAIN-SUFFIX,hentaiverse.org
   - DOMAIN-SUFFIX,ehgt.org
- # > 图站
+ # > pic
   - DOMAIN-SUFFIX,konachan.com
   - DOMAIN-SUFFIX,yande.re
   # > nyaa
@@ -20,5 +20,5 @@ payload:
   - DOMAIN-SUFFIX,kiite.jp
   # > cangku/cangku媒体
   - DOMAIN-SUFFIX,cangku.io
-  # > 比特梵德域名（尝试）
+  # > bitdefender（test）
   - DOMAIN-SUFFIX,bitdefender.net
