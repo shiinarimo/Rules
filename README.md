@@ -7,7 +7,7 @@
 
 | 自建规则 | 包含内容 |
 | --- | --- |
-| Media / Amazon.yaml | 海外Amazon |
+| Media / Amazon.yaml | 除cn之外的Amazon |
 | Media / NicoNico.yaml | Niconico动画 / 漫画 / 直播 | 
 | Games / mobile.yaml | IDOLY PRIDE アイドリープライド |
 |   | BanG Dream!（バンドリ！） |
