@@ -12,7 +12,7 @@
 | Games / mobile.yaml | IDOLY PRIDE アイドリープライド |
 |   | BanG Dream!（バンドリ！） |
 |   | プロジェクトセカイ カラフルステージ！ |
-|   | 艦隊これくしょん（html5 + android） |
+|   | 部分DMM Games jp （html5 + android）（包含艦隊これくしょん） |
 | Games / PC.yaml | OSU！ |
 
 # Games包含部分更新相关域名，游戏更新可能消耗大量流量，请注意
