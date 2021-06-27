@@ -1,3 +1,4 @@
 payload:
   ## > OSU！
   - DOMAIN-SUFFIX,ppy.sh
+  ## - DOMAIN-SUFFIX,ocsp.comodoca.com   //SSL
