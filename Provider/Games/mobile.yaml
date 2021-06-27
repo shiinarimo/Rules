@@ -16,7 +16,7 @@ payload:
   ##- DOMAIN-SUFFIX,tag-api.dmm.com
   ##- DOMAIN-SUFFIX,dtm.dmm.com
   ##- DOMAIN-SUFFIX,special.dmm.com
-     ## > 艦これ
+     ## > 艦これ （html5+android）
   - DOMAIN-SUFFIX,urbanairship.com
   - IP-CIDR,125.6.189.215/32
   - IP-CIDR,203.104.209.7/32
