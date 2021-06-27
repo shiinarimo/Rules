@@ -2,3 +2,6 @@ payload:
   ## > OSU！
   - DOMAIN-SUFFIX,ppy.sh
   ## - DOMAIN-SUFFIX,ocsp.comodoca.com   //SSL
+  ## > DMM  //与mobile.yaml重复
+  ##- DOMAIN-SUFFIX,dmm.com
+  ##- DOMAIN,rcv.a-i-ad.com
