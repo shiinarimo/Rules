@@ -1,31 +1,31 @@
 # Rules
-自用clash规则
+自己使用のClashルール
 
-在订阅转换器内使用[订阅规则.ini](https://raw.githubusercontent.com/zy41501/Rules/main/%E8%AE%A2%E9%98%85%E8%A7%84%E5%88%99.ini)
+Subscription Converterの中で[订阅规则.ini](https://raw.githubusercontent.com/zy41501/Rules/main/%E8%AE%A2%E9%98%85%E8%A7%84%E5%88%99.ini)を使ってください
 
-# 备忘
+# メモ
 
-| 自建规则 | 包含内容 |
+| 自作ルール | 内容 |
 | --- | --- |
-| Media / Amazon.yaml | 除cn之外的Amazon |
-| Media / NicoNico.yaml | Niconico动画 / 漫画 / 直播 | 
+| Media / Amazon.yaml | cn以外のAmazonサービス |
+| Media / NicoNico.yaml | ニコニコ動画 / 漫画 / ニコ生 | 
 | Games / mobile.yaml | IDOLY PRIDE アイドリープライド |
 |   | BanG Dream!（バンドリ！） |
 |   | プロジェクトセカイ カラフルステージ！ |
-|   | 部分DMM Games jp （html5 + android）（包含 艦隊これくしょん） |
+|   | 一部分のDMM Games jp （html5 + android）（包含 艦隊これくしょん） |
 | Games / PC.yaml | OSU！ |
 
-- Games包含更新用域名，使用代理进行游戏更新可能消耗大量流量
+- Gamesは更新用のドメイン名を含め、プロキシを使用してゲームを更新すると、大量のトラフィックを消費する可能性があります
 
-- 自建规则会剔除与proxy重复的规则，不能单独使用
+- 自作ルールはproxyと重複するのを排除しましたから，単独で使用することはできません
 
-- 同一家游戏公司下属的游戏会共用一些域名和CDN，通常不会重复列出
+- 同じゲーム会社のゲームは一部分のドメイン名とCDNを共有します。そのドメイン名はこのルールに一回だけ出します
 
-- DMM游戏很麻烦...碰到不能玩的再说
+- DMMゲームのルールはかなり面倒で...問題が発生したときに対処します
 
-- 慢慢补充
+- ゆっくりと追加
 
-# 感谢
+# 感謝
 
 lhie1 / Rules
 
