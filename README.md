@@ -12,7 +12,7 @@
 | Games / mobile.yaml | IDOLY PRIDE アイドリープライド |
 |   | BanG Dream!（バンドリ！） |
 |   | プロジェクトセカイ カラフルステージ！ |
-|   | 艦隊これくしょん（web + android） |
+|   | 艦隊これくしょん（html5 + android） |
 | Games / PC.yaml | OSU！ |
 
 自建规则会剔除部分与proxy中重复的规则（如AWS）。
