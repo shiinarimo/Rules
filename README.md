@@ -15,7 +15,7 @@
 |   | 部分DMM Games jp （html5 + android）（包含 艦隊これくしょん） |
 | Games / PC.yaml | OSU！ |
 
-- Games包含更新用域名，更新可能消耗大量流量
+- Games包含更新用域名，使用代理进行游戏更新可能消耗大量流量
 
 - 自建规则会剔除与proxy重复的规则，不能单独使用
 
