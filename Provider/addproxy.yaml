@@ -5,8 +5,6 @@ payload:
   - DOMAIN-SUFFIX,shiina-rimo.cafe
   - DOMAIN-SUFFIX,friends.cafe
   - DOMAIN-SUFFIX,pawoo.net
- # > osu！
-  - DOMAIN-SUFFIX,ppy.sh
  # > eh
   - DOMAIN-SUFFIX,exhentai.org
   - DOMAIN-SUFFIX,e-hentai.org
