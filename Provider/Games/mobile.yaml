@@ -9,3 +9,5 @@ payload:
   ##- DOMAIN-SUFFIX,cloudfront.net  //包含在proxy规则
   ## > プロジェクトセカイ カラフルステージ！
   - DOMAIN-SUFFIX,sekai.colorfulpalette.org
+  ## > DMM jp
+  - DOMAIN-SUFFIX,dmm.com
