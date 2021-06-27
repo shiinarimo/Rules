@@ -3,8 +3,6 @@
 
 在订阅转换器内使用[订阅规则.ini](https://raw.githubusercontent.com/zy41501/Rules/main/%E8%AE%A2%E9%98%85%E8%A7%84%E5%88%99.ini)
 
-请勿使用Online.ini，该规则根据个人需求进行过精简
-
 | 使用到的自建规则 | 包含内容 |
 | --- | --- |
 | Media / Amazon.yaml | 海外Amazon |
