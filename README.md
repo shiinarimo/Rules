@@ -10,6 +10,8 @@
 | Media / Amazon.yaml | 海外Amazon（prime video / music）及AWS |
 | Media / NicoNico.yaml | Niconico动画 / 漫画 / 直播 | 
 | Games / mobile.yaml | IDOLY PRIDE アイドリープライド |
+| --- | BanG Dream!（バンドリ！） |
+| --- | プロジェクトセカイ カラフルステージ！ |
 | Games / PC.yaml | OSU！ |
 
 自建规则会剔除部分与proxy中重复的规则（如AWS）。
