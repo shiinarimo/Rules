@@ -1,7 +1,7 @@
 # Rules
 自己使用のClashルール
 
-Subscription Converterの中で[サブスクリプション.ini](https://raw.githubusercontent.com/zy41501/Rules/main/%E8%AE%A2%E9%98%85%E8%A7%84%E5%88%99.ini)を使ってください
+Subscription Converterの中で[サブスクリプション.ini](https://raw.githubusercontent.com/shiinarimo/Rules/main/%E3%82%B5%E3%83%96%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%97%E3%82%B7%E3%83%A7%E3%83%B3.ini)を使ってください
 
 # メモ
 
