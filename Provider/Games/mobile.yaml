@@ -9,10 +9,14 @@ payload:
   ##- DOMAIN-SUFFIX,cloudfront.net  //包含在proxy规则
   ## > プロジェクトセカイ カラフルステージ！
   - DOMAIN-SUFFIX,sekai.colorfulpalette.org
-  ## > DMM jp
+  ## > DMM
   - DOMAIN-SUFFIX,dmm.com
   ##- DOMAIN-SUFFIX,www.dmm.com
   ##- DOMAIN-SUFFIX,games.dmm.com
   ##- DOMAIN-SUFFIX,tag-api.dmm.com
   ##- DOMAIN-SUFFIX,dtm.dmm.com
   ##- DOMAIN-SUFFIX,special.dmm.com
+     ## > 艦これ
+  - IP-CIDR,125.6.189.215
+  - IP-CIDR,203.104.209.7
+
