@@ -1,5 +1,5 @@
 # Rules
-自用clash规则,修改自ACL4SSR
+自用clash规则
 
 在订阅转换器内使用[订阅规则.ini](https://raw.githubusercontent.com/zy41501/Rules/main/%E8%AE%A2%E9%98%85%E8%A7%84%E5%88%99.ini)
 
