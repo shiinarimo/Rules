@@ -93,17 +93,12 @@ payload:
   - DOMAIN-SUFFIX,gameon-masters.com
   - DOMAIN-SUFFIX,gdansk-amazon.com
   - DOMAIN-SUFFIX,images-amazon.com
-  - DOMAIN-SUFFIX,media-amazon.com
   - DOMAIN-SUFFIX,primeday.info
   - DOMAIN-SUFFIX,siege-amazon.com
   - DOMAIN-SUFFIX,ssl-images-amazon.com
   - DOMAIN-SUFFIX,thinkboxsoftware.com
   - DOMAIN-SUFFIX,ueberamazon.de
   - DOMAIN-SUFFIX,yamaxun.com
-  - DOMAIN,d1b183sg0nvnuh.cloudfront.net
-  - DOMAIN,d1c37gjwa26taa.cloudfront.net
-  - DOMAIN,c33hcgiwev3.cloudfront.net
-  - DOMAIN,rhr7kgmtrq1v.cloudfront.net
   - IP-CIDR,13.32.0.0/16,no-resolve
   - IP-CIDR,13.33.0.0/16,no-resolve
   - IP-CIDR,13.35.0.0/17,no-resolve
@@ -145,4 +140,4 @@ payload:
   - DOMAIN-SUFFIX,wholekidsfoundation.org
   - DOMAIN-SUFFIX,wholeplanetfoundation.org
   ## >> AWS
-  ##- DOMAIN-SUFFIX,media-amazon.com
+  - DOMAIN-SUFFIX,media-amazon.com
