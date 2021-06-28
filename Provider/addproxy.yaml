@@ -16,8 +16,6 @@ payload:
   - DOMAIN-SUFFIX,yande.re
   # > nyaa
   - DOMAIN-SUFFIX,nyaa.si
-  # > Kiite(キイテ)
-  - DOMAIN-SUFFIX,kiite.jp
   # > cangku/cangku媒体
   - DOMAIN-SUFFIX,cangku.io
   # > bitdefender（test）
