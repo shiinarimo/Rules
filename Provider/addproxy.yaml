@@ -15,9 +15,9 @@ payload:
  # > pic
   - DOMAIN-SUFFIX,konachan.com
   - DOMAIN-SUFFIX,yande.re
-  # > nyaa
-  - DOMAIN-SUFFIX,nyaa.si
-  # > cangku/cangku媒体
+ # > cangku/cangku媒体
   - DOMAIN-SUFFIX,cangku.io
-  # > bitdefender（test）
+ # > bitdefender（test）
   - DOMAIN-SUFFIX,bitdefender.net
+ # > nyaa
+  - DOMAIN-SUFFIX,nyaa.si
