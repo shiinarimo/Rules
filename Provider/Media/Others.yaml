@@ -4,11 +4,12 @@ payload:
  # > Kiite(キイテ)
  - DOMAIN-SUFFIX,kiite.jp
  # > eh
-  - DOMAIN-SUFFIX,exhentai.org
-  - DOMAIN-SUFFIX,e-hentai.org
-  - DOMAIN-SUFFIX,ehwiki.org
-  - DOMAIN-SUFFIX,hentaiverse.org
-  - DOMAIN-SUFFIX,ehgt.org
+ - DOMAIN-SUFFIX,exhentai.org
+ - DOMAIN-SUFFIX,e-hentai.org
+ - DOMAIN-SUFFIX,ehwiki.org
+ - DOMAIN-SUFFIX,hentaiverse.org
+ - DOMAIN-SUFFIX,ehgt.org
+ - DOMAIN-SUFFIX,nhentai.net
  # > pic
   - DOMAIN-SUFFIX,konachan.com
   - DOMAIN-SUFFIX,yande.re
