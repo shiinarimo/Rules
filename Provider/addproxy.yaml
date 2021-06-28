@@ -6,17 +6,6 @@ payload:
   - DOMAIN-SUFFIX,friends.cafe
   - DOMAIN-SUFFIX,pawoo.net
   - DOMAIN-SUFFIX,bangdream.space
- # > eh
-  - DOMAIN-SUFFIX,exhentai.org
-  - DOMAIN-SUFFIX,e-hentai.org
-  - DOMAIN-SUFFIX,ehwiki.org
-  - DOMAIN-SUFFIX,hentaiverse.org
-  - DOMAIN-SUFFIX,ehgt.org
- # > pic
-  - DOMAIN-SUFFIX,konachan.com
-  - DOMAIN-SUFFIX,yande.re
- # > cangku/cangku媒体
-  - DOMAIN-SUFFIX,cangku.io
  # > bitdefender（test）
   - DOMAIN-SUFFIX,bitdefender.net
  # > nyaa
