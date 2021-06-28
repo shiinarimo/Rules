@@ -8,5 +8,3 @@ payload:
   - DOMAIN-SUFFIX,bangdream.space
  # > bitdefender（test）
   - DOMAIN-SUFFIX,bitdefender.net
- # > nyaa
-  - DOMAIN-SUFFIX,nyaa.si
