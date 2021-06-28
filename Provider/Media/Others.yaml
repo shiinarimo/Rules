@@ -1,3 +1,5 @@
 payload: 
  # > tsdm
  # - DOMAIN-KEYWORD,txdm.net
+ # > Kiite(キイテ)
+ - DOMAIN-SUFFIX,kiite.jp
