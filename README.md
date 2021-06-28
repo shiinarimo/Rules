@@ -12,7 +12,7 @@ Subscription Converterの中で[サブスクリプション.ini](https://raw.git
 | Games / mobile.yaml | IDOLY PRIDE アイドリープライド |
 |   | BanG Dream!（バンドリ！） |
 |   | プロジェクトセカイ カラフルステージ！ |
-|   | 一部分のDMM Games jp （html5 + android）（包含 艦隊これくしょん） |
+|   | 一部分のDMM Games jp （html5 + android）（　艦隊これくしょん とか） |
 | Games / PC.yaml | OSU！ |
 
 - Gamesは更新用のドメイン名を含め、プロキシを使用してゲームを更新すると、大量のトラフィックを消費する可能性があります
