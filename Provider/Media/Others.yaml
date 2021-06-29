@@ -3,13 +3,6 @@ payload:
  # - DOMAIN-KEYWORD,txdm.net
  # > Kiite(キイテ)
  - DOMAIN-SUFFIX,kiite.jp
- # > eh
- - DOMAIN-SUFFIX,exhentai.org
- - DOMAIN-SUFFIX,e-hentai.org
- - DOMAIN-SUFFIX,ehwiki.org
- - DOMAIN-SUFFIX,hentaiverse.org
- - DOMAIN-SUFFIX,ehgt.org
- - DOMAIN-SUFFIX,nhentai.net
  # > pic
   - DOMAIN-SUFFIX,yande.re
  # > cangku/cangku媒体
