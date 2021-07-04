@@ -17,3 +17,5 @@ payload:
  - DOMAIN-SUFFIX,nhentai.net
  # > booth
  - DOMAIN-SUFFIX,booth.pm
+ # > V2EX
+ - DOMAIN-SUFFIX,v2ex.com
