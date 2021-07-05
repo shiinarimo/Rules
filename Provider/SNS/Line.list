@@ -117,12 +117,3 @@ IP-CIDR6,2400:dcc0:af01::/48,no-resolve
 IP-CIDR6,2400:dcc0:af02::/48,no-resolve
 IP-CIDR6,2400:dcc0:af03::/48,no-resolve
 IP-CIDR6,2400:dcc0:d001::/48,no-resolve
-## >> LineTV
-USER-AGENT,LINE%20TV*
-PROCESS-NAME,com.linecorp.linetv
-DOMAIN-SUFFIX,chocotv.com.tw
-DOMAIN-SUFFIX,linetv.tw
-DOMAIN,d3c7rimkq79yfu.cloudfront.net
-DOMAIN,d17lx9ucc6k9fc.cloudfront.net
-## >> Naver TV
-DOMAIN-SUFFIX,smartmediarep.com
