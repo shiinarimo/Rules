@@ -7,7 +7,9 @@ Subscription Converterの中で[サブスクリプション.ini](https://raw.git
 
 # メモ
 
-| 自作ルール | 内容 |
+| ルール | 内容 |
+| --- | --- |
+| PROXY.list | 重複のを排除しました |
 | --- | --- |
 | Media / Amazon.yaml | cn以外のAmazonサービス |
 | Media / NicoNico.yaml | ニコニコ動画 / 漫画 / ニコ生 | 
