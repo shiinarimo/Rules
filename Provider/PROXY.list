@@ -1,4 +1,18 @@
-## 🍖 PROXY
+##  PROXY
+## > eh
+DOMAIN-SUFFIX,exhentai.org
+DOMAIN-SUFFIX,e-hentai.org
+DOMAIN-SUFFIX,ehwiki.org
+DOMAIN-SUFFIX,hentaiverse.org
+DOMAIN-SUFFIX,ehgt.org
+DOMAIN-SUFFIX,nhentai.net
+## > booth
+DOMAIN-SUFFIX,booth.pm
+## > V2EX
+DOMAIN-SUFFIX,v2ex.com
+## > キントク
+DOMAIN-SUFFIX,gamepedia.jp
+###########################
 ## > 9 NEWS
 DOMAIN-SUFFIX,9cdn.net
 DOMAIN-SUFFIX,9nation.com.au
