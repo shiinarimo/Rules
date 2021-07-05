@@ -1,6 +1,8 @@
 # Rules
 私用のClashルール
 
+定期的ここに追加します[Rules-1](https://github.com/shiinarimo/Rules-1)
+
 Subscription Converterの中で[サブスクリプション.ini](https://raw.githubusercontent.com/shiinarimo/Rules/main/%E3%82%B5%E3%83%96%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%97%E3%82%B7%E3%83%A7%E3%83%B3.ini)を使ってください
 
 # メモ
