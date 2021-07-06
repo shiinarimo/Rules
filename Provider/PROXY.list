@@ -1,4 +1,22 @@
 ##  PROXY
+## > ？？？
+DOMAIN-KEYWORD,dlercloud
+## > mastodon/pleroma
+DOMAIN-SUFFIX,shiina-rimo.cafe
+DOMAIN-SUFFIX,friends.cafe
+DOMAIN-SUFFIX,pawoo.net
+DOMAIN-SUFFIX,bangdream.space
+DOMAIN-SUFFIX,o3o.ca
+DOMAIN-SUFFIX,cmx.im
+DOMAIN-SUFFIX,mas.to
+DOMAIN-SUFFIX,bgme.me
+DOMAIN-SUFFIX,patchouli.today
+DOMAIN-SUFFIX,mastodon.social
+DOMAIN-SUFFIX,wxw.moe
+DOMAIN-SUFFIX,octodon.social
+DOMAIN-SUFFIX,vocalodon.net
+## > bitdefender（test）
+DOMAIN-SUFFIX,bitdefender.net
 ## > eh
 DOMAIN-SUFFIX,exhentai.org
 DOMAIN-SUFFIX,e-hentai.org
