@@ -3,7 +3,7 @@
 
 定期的に追加します
 
-Online.iniは普通なので、Fallback.iniは日本線を使うために特化したものです。
+Online.iniは普通なのですが、Fallback.iniは日本線を使うために特化したものです。
 
 Subscription Converterの中で[サブスクリプション.ini](https://raw.githubusercontent.com/shiinarimo/Rules/main/%E3%82%B5%E3%83%96%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%97%E3%82%B7%E3%83%A7%E3%83%B3.ini)を使ってください
 
