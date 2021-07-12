@@ -2,6 +2,7 @@ payload:
   ## > Amazon
   - DOMAIN-SUFFIX,cloudflare-dns.com
   - DOMAIN-SUFFIX,doh.opendns.com
+  - DOMAIN-SUFFIX,dns.adguard.com
   - DOMAIN-SUFFIX,dns.google
   - DOMAIN-SUFFIX,quad9.net
   - IP-CIDR,8.8.8.8/32,no-resolve
