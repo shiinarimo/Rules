@@ -1,6 +1,7 @@
 payload:
   ## > IDOLY PRIDE アイドリープライド
   - DOMAIN-SUFFIX,smbeat.com
+  - DOMAIN-SUFFIX,smbeat.jp
   - DOMAIN-SUFFIX,octo-cloud.com
   - DOMAIN-SUFFIX,unity3d.com
   - DOMAIN-SUFFIX,game-idolypride.jp
@@ -30,4 +31,12 @@ payload:
   - DOMAIN-SUFFIX,urbanairship.com
   - IP-CIDR,125.6.189.215/32
   - IP-CIDR,203.104.209.7/32
-
+   ## > Unity
+  - DOMAIN-SUFFIX,multiplay.cn
+  - DOMAIN-SUFFIX,unity.cn
+  - DOMAIN-SUFFIX,unity.com
+  - DOMAIN-SUFFIX,unity3d.com
+  - DOMAIN-SUFFIX,unitychina.cn
+  - DOMAIN-SUFFIX,unityedu.cn
+  - DOMAIN-SUFFIX,unityedu.com
+  - DOMAIN-SUFFIX,unityedu.com.cn
