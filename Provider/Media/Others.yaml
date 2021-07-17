@@ -6,6 +6,6 @@ payload:
  # > pic
  - DOMAIN-SUFFIX,yande.re
  # > cangku/cangku媒体
- - DOMAIN-SUFFIX,cangku.io
+ #- DOMAIN-SUFFIX,cangku.io
  # > bandcamp
  - DOMAIN-SUFFIX,bandcamp.com
