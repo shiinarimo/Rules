@@ -1,6 +1,7 @@
 ##  PROXY
 ## > ？？？
 DOMAIN-KEYWORD,dlercloud
+DOMAIN-SUFFIX,duyaoss.com
 ## > mastodon/pleroma
 DOMAIN-SUFFIX,shiina-rimo.cafe
 DOMAIN-SUFFIX,friends.cafe
