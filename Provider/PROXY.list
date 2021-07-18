@@ -2,7 +2,9 @@
 ## > ？？？
 DOMAIN-KEYWORD,dlercloud
 DOMAIN-SUFFIX,duyaoss.com
-## > mastodon/pleroma
+## > mastodon/pleroma/域名服务商
+DOMAIN-SUFFIX,hostdon.jp
+DOMAIN-SUFFIX,porkbun.com
 DOMAIN-SUFFIX,shiina-rimo.cafe
 DOMAIN-SUFFIX,friends.cafe
 DOMAIN-SUFFIX,pawoo.net
