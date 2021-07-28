@@ -41,6 +41,8 @@ DOMAIN-SUFFIX,booth.pm
 DOMAIN-SUFFIX,v2ex.com
 ## > キントク
 DOMAIN-SUFFIX,gamepedia.jp
+## > textfree
+DOMAIN-SUFFIX,textfree.us
 ###########################
 ## > 9 NEWS
 DOMAIN-SUFFIX,9cdn.net
