@@ -1,4 +1,6 @@
 payload: 
+ # > FANTIA
+ - DOMAIN-SUFFIX,fantia.jp
  # > tsdm
  # - DOMAIN-KEYWORD,txdm.net
  # > Kiite(キイテ)
