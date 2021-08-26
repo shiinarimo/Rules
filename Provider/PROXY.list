@@ -1,4 +1,5 @@
 ##  PROXY
+DOMAIN-SUFFIX,goodsync.com
 DOMAIN-SUFFIX,sakura-palace.co.jp
 DOMAIN-SUFFIX,vvault.jp
 DOMAIN-SUFFIX,stablebit.com
@@ -15,6 +16,7 @@ DOMAIN-SUFFIX,biteb.club
 DOMAIN-SUFFIX,justcn2.xyz
 ## > mastodon/pleroma/域名服务商
 DOMAIN-SUFFIX,hostdon.jp
+DOMAIN-SUFFIX,hostdon.ne.jp
 ##付费
 ##DOMAIN-SUFFIX,stripe.com
 DOMAIN-SUFFIX,porkbun.com
