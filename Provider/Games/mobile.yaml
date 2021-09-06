@@ -1,4 +1,7 @@
 payload:
+  ## > ブルーア－カイブ
+  - DOMAIN-SUFFIX,bluearchiveyostar.com
+  - DOMAIN-SUFFIX,bluearchive.jp
   ## > IDOLY PRIDE アイドリープライド
   - DOMAIN-SUFFIX,smbeat.com
   - DOMAIN-SUFFIX,smbeat.jp
