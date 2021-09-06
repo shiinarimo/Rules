@@ -5,6 +5,7 @@ payload:
   - DOMAIN-SUFFIX,octo-cloud.com
   - DOMAIN-SUFFIX,unity3d.com
   - DOMAIN-SUFFIX,game-idolypride.jp
+  - DOMAIN-SUFFIX,d2ilil7yh5oi1v.cloudfront.net
   ## > BanG Dream!（バンドリ！）
   - DOMAIN-SUFFIX,craftegg.jp
   ##- DOMAIN-SUFFIX,cloudfront.net  //包含在proxy规则
