@@ -1,5 +1,4 @@
 ##  PROXY
-DOMAIN-SUFFIX,jiku-chu.com
 DOMAIN-SUFFIX,bluestacks.com
 DOMAIN-SUFFIX,clcillinois.edu
 DOMAIN-SUFFIX,goodsync.com
@@ -9,6 +8,10 @@ DOMAIN-SUFFIX,stablebit.com
 DOMAIN-SUFFIX,stablebit.cloud
 DOMAIN-SUFFIX,2dfan.com
 DOMAIN-SUFFIX,esjzone.cc
+## 買い物
+DOMAIN-SUFFIX,jiku-chu.com
+DOMAIN-SUFFIX,suruga-ya.jp
+DOMAIN-SUFFIX,melonbooks.co.jp
 ## 游戏mod
 DOMAIN-SUFFIX,curseforge.com
 ## > ？？？
