@@ -44,3 +44,5 @@ payload:
   - DOMAIN-SUFFIX,unityedu.cn
   - DOMAIN-SUFFIX,unityedu.com
   - DOMAIN-SUFFIX,unityedu.com.cn
+   ## > 雀魂 国际
+  - DOMAIN-SUFFIX,maj-soul.com
