@@ -17,6 +17,9 @@ DOMAIN-SUFFIX,melonbooks.co.jp
 DOMAIN-SUFFIX,patreon.com
 DOMAIN-SUFFIX,stripe.network
 DOMAIN-SUFFIX,stripe.com
+##甲骨文
+DOMAIN-SUFFIX,oraclecloud.com
+DOMAIN-SUFFIX,oracle.com
 ## 游戏mod
 DOMAIN-SUFFIX,curseforge.com
 ## > ？？？
