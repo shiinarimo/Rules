@@ -3,6 +3,7 @@ payload:
   - DOMAIN-SUFFIX,ppy.sh
   ## > MahjongSoul
   - DOMAIN-SUFFIX,maj-soul.com
-  ## > Beat Saber
+  ## > VIVE
   - DOMAIN-SUFFIX,beatsaver.com
-  
+  - DOMAIN-SUFFIX,vive.com
+  - DOMAIN-SUFFIX,viveport.com
