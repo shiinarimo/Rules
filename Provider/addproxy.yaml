@@ -9,4 +9,4 @@ payload:
  # > bitdefender（test）
   - DOMAIN-SUFFIX,bitdefender.net
  # > 危
- - DOMAIN-SUFFIX,okex.com
+  - DOMAIN-SUFFIX,okex.com
