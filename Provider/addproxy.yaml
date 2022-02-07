@@ -12,3 +12,5 @@ payload:
   - DOMAIN-SUFFIX,okex.com
   - DOMAIN-SUFFIX,hi.com
   - DOMAIN-SUFFIX,pexpay.com
+ # > fosshub
+ - DOMAIN-SUFFIX,fosshub.com
