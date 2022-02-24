@@ -6,6 +6,9 @@ DOMAIN-SUFFIX,amysecure.com
 DOMAIN-SUFFIX,justcn2.xyz
 DOMAIN-SUFFIX,免流骚.com
 DOMAIN-SUFFIX,mlsao.xyz
+## > paiza.jp的小游戏
+DOMAIN-SUFFIX,vimeo.com
+DOMAIN-SUFFIX,paiza.jp
 ## mastodon/pleroma
 DOMAIN-SUFFIX,shiina-rimo.cafe
 DOMAIN-SUFFIX,friends.cafe
