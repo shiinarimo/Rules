@@ -1,0 +1,354 @@
+proxy-groups:
+  - name: 🚀 节点选择
+    type: select
+    proxies:
+      - 🇯🇵 日本流媒体
+      - 🗼 区域
+      - ⏭ 中继
+      - 80port
+      - ♻️ 自动选择
+      - DIRECT
+    use:
+    # 补充list
+      - 
+  - name: 📲 SNS
+    type: select
+    proxies:
+      - 🚀 节点选择
+      - 🇯🇵 日本流媒体
+      - 🗼 区域
+      - ⚙️ 落地跨接优化
+      - ♻️ 自动选择
+  - name: 📢 音乐/🌍 流媒体
+    type: select
+    proxies:
+      - 🚀 节点选择
+      - 🇯🇵 日本流媒体
+      - 🗼 区域
+      - ⚙️ 落地跨接优化
+  - name: Ⓜ️ Microsoft
+    type: select
+    proxies:
+      - 🚀 节点选择
+      - 🗼 区域
+      - 🎯 境内
+      - ♻️ 自动选择
+  - name: 80port
+    type: select
+    use:
+    # 补充list
+      - 
+  - name: 中继落地
+    type: select
+    proxies:
+      - 🚀 节点选择
+      - 📢 音乐/🌍 流媒体
+      - 🗼 区域
+      - ⚙️ 落地跨接优化
+    use:
+    # 补充list
+      -
+  - name: ⛩️ 游戏
+    type: select
+    proxies:
+      - DIRECT
+      - 🚀 节点选择
+      - 🗼 区域
+      - ⚙️ 落地跨接优化
+  - name: 🍜 Steam
+    type: select
+    proxies:
+      - 🗼 区域
+      - 🚀 节点选择
+      - DIRECT
+    use:
+    # 补充list
+      -
+  - name: 🚄 测速
+    type: select
+    proxies:
+      - DIRECT
+      - 🚀 节点选择
+      - 🇯🇵 日本流媒体
+      - 80port
+    use:
+    # 补充list
+      -
+  - name: 🇯🇵 日本流媒体
+    type: select
+    use:
+    # 补充list
+      -
+  - name: 🗼 区域
+    type: select
+    proxies:
+      - DIRECT
+      - 🇯🇵 日本流媒体
+      - ⚙️ 落地跨接优化
+    use:
+    # 补充list
+      -
+  - name: 📺 Youtube
+    type: select
+    proxies:
+      - 🇯🇵 日本流媒体
+      - 🗼 区域
+      - 🚀 节点选择
+  - name: 🐟 其它
+    type: select
+    proxies:
+      - DIRECT
+      - 🎯 境内
+      - 🚀 节点选择
+      - 🇯🇵 日本流媒体
+      - 🗼 区域
+      - ♻️ 自动选择
+  - name: 🎯 境内
+    type: select
+    proxies:
+      - DIRECT
+      - 80port
+      - 🚀 节点选择
+      - 🇯🇵 日本流媒体
+      - 🗼 区域
+  - name: 落地优化入口
+    type: select
+    use:
+    # 补充list
+      -
+  - name: 落地优化出口
+    type: select
+    use:
+    # 补充list
+      -
+  - name: ⏭ 中继
+    type: relay
+    proxies:
+      - 80port
+      - 中继落地
+  - name: ⚙️ 落地跨接优化
+    type: relay
+    proxies:
+      - 落地优化入口
+      - 落地优化出口
+  - name: ♻️ 自动选择
+    type: url-test
+    url: http://www.gstatic.com/generate_204
+    interval: 300
+    tolerance: 50
+    use:
+    # 补充list
+      -
+  - name: 📍 拦截
+    type: select
+    proxies:
+      - REJECT
+      - DIRECT
+      - 🚀 节点选择
+  - name: 🌐 分区代理
+    type: select
+    proxies:
+      - 🚀 节点选择
+      - 🗼 区域
+      - 🎯 境内
+    use:
+    # 补充list
+      -
+
+
+rule-providers:
+  RimoProxy:
+    type: http
+    behavior: "classical"
+    url: "https://raw.githubusercontent.com/shiinarimo/Rules/main/Provider/PROXY.yaml"
+    path: ./ruleset/RimoProxy.yaml
+    interval: 10800
+  
+  Telegram:
+    type: http
+    behavior: "classical"
+    url: "https://raw.githubusercontent.com/shiinarimo/Rules-1/master/Clash-RuleSet-Classical/PROXY/Telegram.yaml"
+    path: ./ruleset/SNS/Telegram.yaml
+    interval: 10800
+  
+  Discord:
+    type: http
+    behavior: "classical"
+    url: "https://raw.githubusercontent.com/shiinarimo/Rules-1/master/Clash-RuleSet-Classical/Clash-RuleSet-Classical/PROXY/Discord.yaml"
+    path: ./ruleset/SNS/Discord.yaml
+    interval: 10800
+  
+  Facebook:
+    type: http
+    behavior: "classical"
+    url: "https://raw.githubusercontent.com/shiinarimo/Rules-1/master/Clash-RuleSet-Classical/Clash-RuleSet-Classical/PROXY/Facebook.yaml"
+    path: ./ruleset/SNS/Facebook.yaml
+    interval: 10800
+
+  Twitter:
+    type: http
+    behavior: "classical"
+    url: "https://raw.githubusercontent.com/shiinarimo/Rules-1/master/Clash-RuleSet-Classical/Clash-RuleSet-Classical/PROXY/Twitter.yaml"
+    path: ./ruleset/SNS/Twitter.yaml
+    interval: 10800
+  
+  Line:
+    type: http
+    behavior: "classical"
+    url: "https://raw.githubusercontent.com/shiinarimo/Rules/main/Provider/SNS/Line.yaml"
+    path: ./ruleset/SNS/Line.yaml
+    interval: 10800 
+
+  Youtube:
+    type: http
+    behavior: "classical"
+    url: "https://raw.githubusercontent.com/shiinarimo/Rules-1/master/Clash-RuleSet-Classical/Global-Services/YouTube.yaml"
+    path: ./ruleset/Media/Youtube.yaml
+    interval: 10800
+
+  Amazon:
+    type: http
+    behavior: "classical"
+    url: "https://raw.githubusercontent.com/shiinarimo/Rules/main/Provider/Media/Amazon.yaml"
+    path: ./ruleset/Media/Amazon.yaml
+    interval: 10800
+
+  Spotify:
+    type: http
+    behavior: "classical"
+    url: "https://raw.githubusercontent.com/shiinarimo/Rules-1/master/Clash-RuleSet-Classical/Global-Services/Spotify.yaml"
+    path: ./ruleset/Media/Spotify.yaml
+    interval: 10800
+
+  SoundCloud:
+    type: http
+    behavior: "classical"
+    url: "https://raw.githubusercontent.com/shiinarimo/Rules-1/master/Clash-RuleSet-Classical/Global-Services/SoundCloud.yaml"
+    path: ./ruleset/Media/SoundCloud.yaml
+    interval: 10800
+
+  Twitch:
+    type: http
+    behavior: "classical"
+    url: "https://raw.githubusercontent.com/shiinarimo/Rules-1/master/Clash-RuleSet-Classical/PROXY/Twitch.yaml"
+    path: ./ruleset/Media/Twitch.yaml
+    interval: 10800
+
+  NicoNico:
+    type: http
+    behavior: "classical"
+    url: "https://raw.githubusercontent.com/shiinarimo/Rules/main/Provider/Media/niconico.yaml"
+    path: ./ruleset/Media/NicoNico.yaml
+    interval: 10800
+  
+  Media-Other:
+    type: http
+    behavior: "classical"
+    url: "https://raw.githubusercontent.com/shiinarimo/Rules/main/Provider/Media/Others.yaml"
+    path: ./ruleset/Media/Other.yaml
+    interval: 10800
+  
+  Microsoft:
+    type: http
+    behavior: "classical"
+    url: "https://raw.githubusercontent.com/shiinarimo/Rules-1/master/Clash-RuleSet-Classical/Microsoft.yaml"
+    path: ./ruleset/Microsoft.yaml
+    interval: 10800
+  
+  Steam:
+    type: http
+    behavior: "classical"
+    url: "https://raw.githubusercontent.com/shiinarimo/Rules-1/master/Clash-RuleSet-Classical/Clash-RuleSet-Classical/Game/Steam.yaml"
+    path: ./ruleset/Steam.yaml
+    interval: 10800
+
+  Mobile-game:
+    type: http
+    behavior: "classical"
+    url: "https://raw.githubusercontent.com/shiinarimo/Rules/main/Provider/Games/mobile.yaml"
+    path: ./ruleset/Game/Mobile.yaml
+    interval: 10800
+
+  PC-game:
+    type: http
+    behavior: "classical"
+    url: "https://raw.githubusercontent.com/shiinarimo/Rules/main/Provider/Games/PC.yaml"
+    path: ./ruleset/Game/PC.yaml
+    interval: 10800
+
+  Block:
+    type: http
+    behavior: "classical"
+    url: "https://raw.githubusercontent.com/shiinarimo/Rules-1/master/Clash-RuleSet-Classical/Adblock/Adblock.yaml"
+    path: ./ruleset/Block/Adblock.yaml
+    interval: 10800
+
+  Adddirect:
+    type: http
+    behavior: "classical"
+    url: "https://raw.githubusercontent.com/shiinarimo/Rules/main/Provider/adddirect.yaml"
+    path: ./ruleset/Adddirect.yaml
+    interval: 10800
+  
+  Pay:
+    type: http
+    behavior: "classical"
+    url: "https://raw.githubusercontent.com/shiinarimo/Rules/main/Provider/pay.yaml"
+    path: ./ruleset/Pay.yaml
+    interval: 10800
+  
+  Paypal:
+    type: http
+    behavior: "classical"
+    url: "https://raw.githubusercontent.com/shiinarimo/Rules-1/master/Clash-RuleSet-Classical/PROXY/PayPal.yaml"
+    path: ./ruleset/Paypal.yaml
+    interval: 10800
+  
+  Speedtest:
+    type: http
+    behavior: "classical"
+    url: "https://raw.githubusercontent.com/shiinarimo/Rules-3/main/Clash/Provider/Speedtest.yaml"
+    path: ./ruleset/Speedtest/Speedtest.yaml
+    interval: 10800
+
+  Speedtest-add:
+    type: http
+    behavior: "classical"
+    url: "https://raw.githubusercontent.com/shiinarimo/Rules/main/Provider/speedtest_add.yaml"
+    path: ./ruleset/Speedtest/Speedtest-add.yaml
+    interval: 10800
+
+  Addproxy:
+    type: http
+    behavior: "classical"
+    url: "https://raw.githubusercontent.com/shiinarimo/Rules/main/Provider/addproxy.yaml"
+    path: ./ruleset/Addproxy.yaml
+    interval: 10800
+
+rules:
+  - RULE-SET,RimoProxy,🚀 节点选择
+  - RULE-SET,Discord,📲 SNS
+  - RULE-SET,Facebook,📲 SNS
+  - RULE-SET,Twitter,📲 SNS
+  - RULE-SET,Line,📲 SNS
+  - RULE-SET,Telegram,📲 SNS
+  - RULE-SET,Youtube,📺 Youtube
+  - RULE-SET,Amazon,📢 音乐/🌍 流媒体
+  - RULE-SET,Spotify,📢 音乐/🌍 流媒体
+  - RULE-SET,SoundCloud,📢 音乐/🌍 流媒体
+  - RULE-SET,Twitch,📢 音乐/🌍 流媒体
+  - RULE-SET,NicoNico,📢 音乐/🌍 流媒体
+  - RULE-SET,Media-Other,📢 音乐/🌍 流媒体
+  - RULE-SET,Microsoft,Ⓜ️ Microsoft
+  - RULE-SET,Steam,🍜 Steam
+  - GEOIP,CN,🎯 境内
+  - RULE-SET,Mobile-game,⛩️ 游戏
+  - RULE-SET,PC-game,⛩️ 游戏
+  - RULE-SET,Speedtest,🚄 测速
+  - RULE-SET,Speedtest-add,🚄 测速
+  - RULE-SET,Addproxy,🌐 分区代理
+  - RULE-SET,Block,📍 拦截
+  - MATCH,🐟 其它
+  - RULE-SET,Paypal,DIRECT
+  - RULE-SET,Pay,DIRECT
+  - RULE-SET,Adddirect,DIRECT
