@@ -22,6 +22,7 @@ payload:
   - DOMAIN-SUFFIX,bitdefender.net
 ## 经济危机
   - DOMAIN-SUFFIX,okex.com
+  - DOMAIN-SUFFIX,okx.com
   - DOMAIN-SUFFIX,hi.com
   - DOMAIN-SUFFIX,lokalise.co
   - DOMAIN-SUFFIX,pexpay.com
