@@ -88,8 +88,9 @@ payload:
   - DOMAIN-SUFFIX,awstrust.com
   - DOMAIN-SUFFIX,cdkworkshop.com
   - DOMAIN-SUFFIX,amazonalexa.com
-  ##- DOMAIN-SUFFIX,cloudfront.net
-  - DOMAIN-SUFFIX,d37b6sgey2y8gt.cloudfront.net
+  - DOMAIN-SUFFIX,cloudfront.net
+  ##- DOMAIN-SUFFIX,d37b6sgey2y8gt.cloudfront.net
+  ##- DOMAIN-SUFFIX,d17vo8z6jop21h.cloudfront.net
   - DOMAIN-SUFFIX,aiv-cdn.net
   - DOMAIN-SUFFIX,amazon.dev
   - DOMAIN-SUFFIX,containersonaws.com
