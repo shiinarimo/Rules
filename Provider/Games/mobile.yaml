@@ -1,4 +1,6 @@
 payload:
+  ## HeavenRurinsRed
+  - DOMAIN-SUFFIX,wfs.games
   ## リステップ
   - DOMAIN-SUFFIX,rst-game.com
   - DOMAIN-SUFFIX,heytapmobi.com
