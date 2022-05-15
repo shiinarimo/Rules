@@ -1,6 +1,7 @@
 payload:
   ## リステップ
   - DOMAIN-SUFFIX,rst-game.com
+  - DOMAIN-SUFFIX,heytapmobi.com
   ## > ブルーア－カイブ
   - DOMAIN-SUFFIX,bluearchiveyostar.com
   - DOMAIN-SUFFIX,bluearchive.jp
