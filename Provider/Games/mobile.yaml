@@ -1,4 +1,7 @@
 payload:
+  ## ミストレ
+  - DOMAIN-SUFFIX,mist-train-girls.com
+  - DOMAIN-SUFFIX,appsflyer.com
   ## HeavenRurinsRed
   - DOMAIN-SUFFIX,wfs.games
   ## リステップ
