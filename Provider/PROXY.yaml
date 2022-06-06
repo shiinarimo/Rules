@@ -1,5 +1,6 @@
 payload:
 ##  PROXY 
+  - DOMAIN-KEYWORD,kemono.party
 ## ？？？
   - DOMAIN-KEYWORD,dlercloud
   - DOMAIN-SUFFIX,nexitally.com
