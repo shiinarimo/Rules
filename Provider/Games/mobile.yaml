@@ -1,4 +1,6 @@
 payload:
+  ## fate-go jp
+  - DOMAIN-SUFFIX,fate-go.jp
   ## ミストレ
   - DOMAIN-SUFFIX,mist-train-girls.com
   - DOMAIN-SUFFIX,appsflyer.com
