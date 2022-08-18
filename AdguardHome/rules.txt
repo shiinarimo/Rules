@@ -1,0 +1,17 @@
+# mumu ads
+127.0.0.1 mumu.nie.netease.com
+127.0.0.1 mumu.163.com
+127.0.0.1 mumu-store-api.webapp.163.com
+127.0.0.1 g.fp.ps.netease.com.wscdns.com
+127.0.0.1 mumu-dl.fp.ps.netease.com.wsglb0.com
+127.0.0.1 mumu.res.netease.com.wsglb0.com
+127.0.0.1 mr.da.netease.com
+127.0.0.1 game-cache.nie.163.com
+127.0.0.1 dns4.flxdns.com
+127.0.0.1 analytics.163.com
+127.0.0.1 nie.res.netease.com.wscdns.com
+# nox ads
+127.0.0.1 appcenter-api.bignox.com
+127.0.0.1 bi.noxgroup.com
+127.0.0.1 api-new.bignox.com
+127.0.0.1 api.bignox.com
