@@ -3,9 +3,7 @@
 
 定期的に追加します
 
-Online.iniは普通のですが、Fallback.iniは日本線を使うために特化したものです。
-
-Subscription Converterの中で[Online.ini](https://raw.githubusercontent.com/shiinarimo/Rules/main/Online.ini)を使ってください
+proxy-providersで使ってください
 
 # メモ
 
@@ -19,6 +17,11 @@ Subscription Converterの中で[Online.ini](https://raw.githubusercontent.com/sh
 |   | BanG Dream!（バンドリ！） |
 |   | プロジェクトセカイ カラフルステージ！ |
 |   | 一部分のDMM Games jp （html5 + android）（　艦隊これくしょん とか） |
+| 　| fate-go jp |
+| 　| ミストレ（DMM） |
+| 　| ブルーア－カイブ |
+| 　| IDOLY PRIDE アイドリープライド |
+
 | Games / PC.yaml | OSU！ |
 
 - Gamesは更新用のドメイン名を含め、プロキシを使用してゲームを更新すると、大量のトラフィックを消費する可能性があります
