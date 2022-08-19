@@ -20,7 +20,6 @@ proxy-providersで使ってください
 | 　| fate-go jp |
 | 　| ミストレ（DMM） |
 | 　| ブルーア－カイブ |
-| 　| IDOLY PRIDE アイドリープライド |
 | Games / PC.yaml | OSU！ |
 
 - Gamesは更新用のドメイン名を含め、プロキシを使用してゲームを更新すると、大量のトラフィックを消費する可能性があります
