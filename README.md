@@ -1,7 +1,7 @@
 # Rules
 私用のClashルール
 
-定期的に追加します
+不定期的に追加します
 
 proxy-providersで使ってください
 
