@@ -1,5 +1,6 @@
 payload:
 ##  PROXY 
+  - DOMAIN-KEYWORD,genymotion.com
   - DOMAIN-KEYWORD,kemono.party
 ## ？？？
   - DOMAIN-KEYWORD,dlercloud
