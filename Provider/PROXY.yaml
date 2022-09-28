@@ -1,7 +1,8 @@
 payload:
 ##  PROXY 
-  - DOMAIN-KEYWORD,genymotion.com
-  - DOMAIN-KEYWORD,kemono.party
+  - DOMAIN-SUFFIX,catixs.net
+  - DOMAIN-SUFFIX,genymotion.com
+  - DOMAIN-SUFFIX,kemono.party
 ## ？？？
   - DOMAIN-KEYWORD,dlercloud
   - DOMAIN-SUFFIX,nexitally.com
