@@ -15,3 +15,10 @@
 127.0.0.1 bi.noxgroup.com
 127.0.0.1 api-new.bignox.com
 127.0.0.1 api.bignox.com
+# brightdata（aka luminati）
+127.0.0.1 lum-sdk.io
+127.0.0.1 luminatinet.com
+127.0.0.1 luminati-china.io
+127.0.0.1 luminati.io
+127.0.0.1 lum-cn.io
+127.0.0.1 luminati-china.biz
