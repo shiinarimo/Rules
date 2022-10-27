@@ -1,0 +1,17 @@
+payload:
+  ## > Age of Empires IV ['RelicCardinal_ws.exe'] By-ip_crawl_tool,1
+  - IP-CIDR,20.9.9.0/24
+  - IP-CIDR,52.186.164.0/24
+  - IP-CIDR,20.214.220.0/24
+  - IP-CIDR,20.254.139.0/24
+  - IP-CIDR,20.190.102.0/24
+  - IP-CIDR,52.183.138.0/24
+  - IP-CIDR,20.198.219.0/24
+  - IP-CIDR,20.121.139.0/24
+  - IP-CIDR,20.206.146.0/24
+  - IP-CIDR,20.120.160.0/24
+  - IP-CIDR,20.24.57.0/24
+  - IP-CIDR,20.209.1.0/24
+  - IP-CIDR,13.107.227.0/24
+  - IP-CIDR,13.107.246.0/24
+  - IP-CIDR,117.18.237.0/24
