@@ -1,5 +1,6 @@
 payload:
 ##  PROXY 
+  - DOMAIN-KEYWORD,kemono.party
   - DOMAIN-SUFFIX,catixs.net
   - DOMAIN-SUFFIX,genymotion.com
   - DOMAIN-SUFFIX,kemono.party
@@ -8168,7 +8169,6 @@ payload:
   - DOMAIN-SUFFIX,netbirds.com
   - DOMAIN-SUFFIX,netcolony.com
   - DOMAIN-SUFFIX,netdna-cdn.com
-  - DOMAIN-SUFFIX,netfirms.co
   - DOMAIN-SUFFIX,netmarble.com
   - DOMAIN-SUFFIX,netme.cc
   - DOMAIN-SUFFIX,netsneak.com
