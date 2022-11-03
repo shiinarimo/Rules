@@ -3,3 +3,5 @@ payload:
   - DOMAIN-SUFFIX,1.oca.nflxvideo.net
 # Dler测速站
   - DOMAIN-SUFFIX,speed.dler.io
+# ip查询
+  - DOMAIN-SUFFIX,skk.moe
