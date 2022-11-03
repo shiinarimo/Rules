@@ -2571,8 +2571,6 @@ payload:
   - DOMAIN-SUFFIX,digisfera.com
   - DOMAIN-SUFFIX,digitalassetlinks.org
   - DOMAIN-SUFFIX,digitalattackmap.com
-  - DOMAIN-SUFFIX,doubleclick.com
-  - DOMAIN-SUFFIX,doubleclick.net
   - DOMAIN-SUFFIX,episodic.com
   - DOMAIN-SUFFIX,feedburner.com
   - DOMAIN-SUFFIX,fflick.com
@@ -2610,7 +2608,6 @@ payload:
   - DOMAIN-SUFFIX,googel.com
   - DOMAIN-SUFFIX,googil.com
   - DOMAIN-SUFFIX,googl.com
-  - DOMAIN-SUFFIX,google-analytics.com
   - DOMAIN-SUFFIX,google-syndication.com
   - DOMAIN-SUFFIX,google.berlin
   - DOMAIN-SUFFIX,google.dev
@@ -2618,7 +2615,6 @@ payload:
   - DOMAIN-SUFFIX,google.org
   - DOMAIN-SUFFIX,google.ventures
   - DOMAIN-SUFFIX,googleacquisitionmigration.com
-  - DOMAIN-SUFFIX,googleadservices.com
   - DOMAIN-SUFFIX,googleanalytics.com
   - DOMAIN-SUFFIX,googleapis.cn
   - DOMAIN-SUFFIX,googleapis.com
@@ -2649,7 +2645,6 @@ payload:
   - DOMAIN-SUFFIX,googlesource.com
   - DOMAIN-SUFFIX,googlestore.com
   - DOMAIN-SUFFIX,googlesverige.com
-  - DOMAIN-SUFFIX,googlesyndication.com
   - DOMAIN-SUFFIX,googletagmanager.com
   - DOMAIN-SUFFIX,googletagservices.com
   - DOMAIN-SUFFIX,googleusercontent.com
