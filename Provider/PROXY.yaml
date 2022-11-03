@@ -71,11 +71,7 @@ payload:
 ##付费
 ##  - DOMAIN-SUFFIX,stripe.com
   - DOMAIN-SUFFIX,porkbun.com
-  - DOMAIN-SUFFIX,shiina-rimo.cafe
   - DOMAIN-SUFFIX,shiina.cafe
-  - DOMAIN-SUFFIX,friends.cafe
-  - DOMAIN-SUFFIX,pawoo.net
-  - DOMAIN-SUFFIX,bangdream.space
   - DOMAIN-SUFFIX,o3o.ca
   - DOMAIN-SUFFIX,cmx.im
   - DOMAIN-SUFFIX,mas.to
@@ -86,7 +82,6 @@ payload:
   - DOMAIN-SUFFIX,octodon.social
   - DOMAIN-SUFFIX,vocalodon.net
 ## > bitdefender（test）
-  - DOMAIN-SUFFIX,bitdefender.net
 ## > booth
   - DOMAIN-SUFFIX,booth.pm
 ## > V2EX
@@ -2175,16 +2170,16 @@ payload:
   - DOMAIN-SUFFIX,golang.net
   - DOMAIN-SUFFIX,golang.org
 ## >> google-ads
-  - DOMAIN-SUFFIX,adsensecustomsearchads.com
-  - DOMAIN-SUFFIX,adsenseformobileapps.com
-  - DOMAIN-SUFFIX,advertisercommunity.com
-  - DOMAIN-SUFFIX,advertiserscommunity.com
-  - DOMAIN-SUFFIX,adwords-community.com
-  - DOMAIN-SUFFIX,adwordsexpress.com
-  - DOMAIN-SUFFIX,clickserver.googleads.com
-  - DOMAIN-SUFFIX,googleadapis.com
-  - DOMAIN-SUFFIX,googleoptimize.com
-  - DOMAIN-SUFFIX,googletraveladservices.com
+##  - DOMAIN-SUFFIX,adsensecustomsearchads.com
+##  - DOMAIN-SUFFIX,adsenseformobileapps.com
+##  - DOMAIN-SUFFIX,advertisercommunity.com
+##  - DOMAIN-SUFFIX,advertiserscommunity.com
+##  - DOMAIN-SUFFIX,adwords-community.com
+##  - DOMAIN-SUFFIX,adwordsexpress.com
+##  - DOMAIN-SUFFIX,clickserver.googleads.com
+##  - DOMAIN-SUFFIX,googleadapis.com
+##  - DOMAIN-SUFFIX,googleoptimize.com
+##  - DOMAIN-SUFFIX,googletraveladservices.com
 ## >> google-registry
   - DOMAIN-SUFFIX,charlestonroadregistry.com
   - DOMAIN-SUFFIX,registry.google
@@ -2631,7 +2626,6 @@ payload:
   - DOMAIN-SUFFIX,googlecert.net
   - DOMAIN-SUFFIX,googlecnapps.cn
   - DOMAIN-SUFFIX,googlecode.com
-  - DOMAIN-SUFFIX,googlecommerce.com
   - DOMAIN-SUFFIX,googlecompare.co.uk
   - DOMAIN-SUFFIX,googledanmark.com
   - DOMAIN-SUFFIX,google  - domains.com
@@ -3683,8 +3677,6 @@ payload:
   - IP-CIDR6,2001:4c28::/32,no-resolve
   - IP-CIDR6,2001:4c28:4000::/36,no-resolve
 ## > Oracle
-  - DOMAIN-SUFFIX,oracle.com
-  - DOMAIN-SUFFIX,oraclecloud.com
   - DOMAIN-SUFFIX,oracleimg.com
   - DOMAIN-SUFFIX,sun.com
   - DOMAIN-SUFFIX,oraclefoundation.org
@@ -5482,7 +5474,6 @@ payload:
   - DOMAIN-SUFFIX,bandwagonhost.com
   - DOMAIN-SUFFIX,bangbrosnetwork.com
   - DOMAIN-SUFFIX,bangchen.net
-  - DOMAIN-SUFFIX,bangdream.space
   - DOMAIN-SUFFIX,bangyoulater.com
   - DOMAIN-SUFFIX,bankmobilevibe.com
   - DOMAIN-SUFFIX,bannednews.org
@@ -5971,7 +5962,6 @@ payload:
   - DOMAIN-SUFFIX,cmu.edu
   - DOMAIN-SUFFIX,cmule.com
   - DOMAIN-SUFFIX,cmule.org
-  - DOMAIN-SUFFIX,cmx.im
   - DOMAIN-SUFFIX,cn-proxy.com
   - DOMAIN-SUFFIX,cn.com
   - DOMAIN-SUFFIX,cn6.eu
@@ -7851,7 +7841,6 @@ payload:
   - DOMAIN-SUFFIX,maskedip.com
   - DOMAIN-SUFFIX,mastodon.cloud
   - DOMAIN-SUFFIX,mastodon.host
-  - DOMAIN-SUFFIX,mastodon.social
   - DOMAIN-SUFFIX,matainja.com
   - DOMAIN-SUFFIX,mathable.io
   - DOMAIN-SUFFIX,mathiew-badimon.com
@@ -8335,7 +8324,6 @@ payload:
   - DOMAIN-SUFFIX,oizoblog.com
   - DOMAIN-SUFFIX,ok.ru
   - DOMAIN-SUFFIX,okayfreedom.com
-  - DOMAIN-SUFFIX,okex.com
   - DOMAIN-SUFFIX,okk.tw
   - DOMAIN-SUFFIX,olabloga.pl
   - DOMAIN-SUFFIX,old-cat.net
