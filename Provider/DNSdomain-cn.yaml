@@ -1,12 +1,12 @@
 payload:
 ## For private
-  - DOMAIN-SUFFIX,doh.pub
-  - DOMAIN-SUFFIX,dns.alidns.com
-  - DOMAIN-SUFFIX,dot.360.cn
-  - DOMAIN-SUFFIX,doh.360.cn
-  - DOMAIN-SUFFIX,dns.cfiec,net
-  - DOMAIN-SUFFIX,rubyfish.cn
-  - DOMAIN-SUFFIX,passcloud.xyz
-  - DOMAIN-SUFFIX,vvvglass.com
-  - DOMAIN-SUFFIX,dot.onedns.net
-  - DOMAIN-SUFFIX,doh.onedns.net
+  - DOMAIN,doh.pub
+  - DOMAIN,dns.alidns.com
+  - DOMAIN,dot.360.cn
+  - DOMAIN,doh.360.cn
+  - DOMAIN,dns.cfiec,net
+  - DOMAIN,rubyfish.cn
+  - DOMAIN,passcloud.xyz
+  - DOMAIN,vvvglass.com
+  - DOMAIN,dot.onedns.net
+  - DOMAIN,doh.onedns.net
