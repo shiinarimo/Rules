@@ -10,8 +10,7 @@ payload:
   - DOMAIN,dns.rubyfish.cn
   - DOMAIN,v6.rubyfish.cn
   - DOMAIN,i.233py.com
-  - DOMAIN,dns.233py.com
-  - DOMAIN,passcloud.xyz
-  - DOMAIN,vvvglass.com
+  - DOMAIN,a.vvvglass.com
+  - DOMAIN,b.vvvglass.com
   - DOMAIN,dot.onedns.net
   - DOMAIN,doh.onedns.net
