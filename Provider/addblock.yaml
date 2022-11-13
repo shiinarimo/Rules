@@ -1,4 +1,5 @@
 payload:
+  ## turn to adguard home
   # mumu ads
   # - DOMAIN-SUFFIX,mumu.nie.netease.com
   # - DOMAIN-SUFFIX,mumu.163.com
@@ -12,8 +13,8 @@ payload:
   # - DOMAIN-SUFFIX,analytics.163.com
   # - DOMAIN-SUFFIX,nie.res.netease.com.wscdns.com
   # nox ads
-  - DOMAIN-SUFFIX,appcenter-api.bignox.com
-  - DOMAIN-SUFFIX,bi.noxgroup.com
-  - DOMAIN-SUFFIX,api-new.bignox.com
-  - DOMAIN-SUFFIX,api.bignox.com
+  # - DOMAIN-SUFFIX,appcenter-api.bignox.com
+  # - DOMAIN-SUFFIX,bi.noxgroup.com
+  # - DOMAIN-SUFFIX,api-new.bignox.com
+  # - DOMAIN-SUFFIX,api.bignox.com
 
