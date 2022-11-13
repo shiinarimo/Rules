@@ -1,6 +1,6 @@
 payload:
   # mumu ads
-  - DOMAIN-SUFFIX,mumu.nie.netease.com
+  # - DOMAIN-SUFFIX,mumu.nie.netease.com
   # - DOMAIN-SUFFIX,mumu.163.com
   - DOMAIN-SUFFIX,mumu-store-api.webapp.163.com
   - DOMAIN-SUFFIX,g.fp.ps.netease.com.wscdns.com
