@@ -13,7 +13,7 @@
 # nox ads
 ||appcenter-api.bignox.com^
 ||bi.noxgroup.com^
-||api-new.bignox.com^
+# ||api-new.bignox.com^
 ||api.bignox.com^
 # brightdata（aka luminati）
 ||lum-sdk.io^
