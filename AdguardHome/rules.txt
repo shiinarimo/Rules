@@ -1,6 +1,6 @@
 # mumu ads
 ||mumu.nie.netease.com^
-||mumu.163.com^
+！ ||mumu.163.com^
 ||mumu-store-api.webapp.163.com^
 ||g.fp.ps.netease.com.wscdns.com^
 ||mumu-dl.fp.ps.netease.com.wsglb0.com^
