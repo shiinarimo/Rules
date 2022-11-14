@@ -1,11 +1,3 @@
 payload:
-## > eh
-  - DOMAIN-SUFFIX,exhentai.org
-  - DOMAIN-SUFFIX,e-hentai.org
-  - DOMAIN-SUFFIX,ehwiki.org
-  - DOMAIN-SUFFIX,hentaiverse.org
-  - DOMAIN-SUFFIX,ehgt.org
-  - DOMAIN-SUFFIX,nhentai.net
-  - DOMAIN-SUFFIX,hath.network
 ## > esj封日韩ip
   - DOMAIN-SUFFIX,esjzone.cc
