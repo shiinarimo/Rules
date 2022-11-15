@@ -5,8 +5,6 @@
 
 不定期的に追加します
 
-proxy-providersで使ってください
-
 # 感謝
 
 lhie1 / Rules
