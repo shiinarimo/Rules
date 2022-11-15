@@ -1,0 +1,118 @@
+port: 7892
+socks-port: 7891
+mixed-port: 7890
+allow-lan: false
+mode: rule
+log-level: info
+ipv6: true
+geodata-mode: true     # 【Meta】使用geoip.dat数据库(默认：false使用mmdb数据库)
+tcp-concurrent: true     # 【Meta】TCP连接并发
+# external-controller: 127.0.0.1:9090
+# secret: "123456789"
+# authentication:            # 本地SOCKS5/HTTP(S)代理端口认证设置
+#   - "USER:PASSWORD"
+profile:                   #缓存设置(文件位置./cache.db)
+  store-selected: true    #节点状态记忆（若不同配置有同代理名称,设置值共享）
+  store-fake-ip: true      #fake-ip缓存
+
+sniffer:
+  enable: true
+  sniffing:
+    - tls
+    - http
+  skip-domain:
+    - 'Mijia Cloud'
+    - 'dlg.io.mi.com'
+    - '+.apple.com'
+  # - '*.baidu.com'
+    
+  force-domain:
+  # - '+'
+    - '+.youtube.com'
+    - '+.netflix.com'
+    - '+.nflxvideo.net'
+    - '+.amazonaws.com'
+    - '+.media.dssott.com'
+
+fallback-filter:
+    geoip: true                      #为真时，不匹配为geoip规则的使用fallback返回结果
+    geoip-code: CN                   #geoip匹配区域设定
+    geosite:                         #【Meta专属】设定geosite某分类使用fallback返回结果
+      - gfw
+      - greatfire
+    ipcidr:
+      - 0.0.0.0/8
+      - 10.0.0.0/8
+      - 100.64.0.0/10
+      - 127.0.0.0/8
+      - 169.254.0.0/16
+      - 172.16.0.0/12
+      - 192.0.0.0/24
+      - 192.0.2.0/24
+      - 192.88.99.0/24
+      - 192.168.0.0/16
+      - 198.18.0.0/15
+      - 198.51.100.0/24
+      - 203.0.113.0/24
+      - 224.0.0.0/4
+      - 240.0.0.0/4
+      - 255.255.255.255/32
+    domain:                          #列表中的域名使用fallback返回解析结果
+      # net
+      - "+.kemono.party"
+      - "+.novelai.net"
+      - "+.piapro.jp"
+      - "+.okex.com"
+      - "+.okx.com"
+      - "+.fosshub.com"
+      - "+.patreon.com"
+      - "+.stripe.com"
+      - "+.porkbun.com"
+      - "+.githubusercontent.com"
+      - "+.cloudfront.net"
+      # connect
+      - "+.tagvpnglobal.com"
+      - "+.dlercloud.com"
+      - "+.nexitally.com"
+      - "+.amysecure.com"
+      - "+.catixs.net"
+      # mastodon
+      - "+.pawoo.net"
+      - "+.bangdream.space"
+      - "+.hostdon.jp"
+      - "+.hostdon.ne.jp"
+      - "+.o3o.ca"
+      - "+.cmx.im"
+      - "+.mas.to"
+      - "+.bgme.me"
+      - "+.patchouli.today"
+      - "+.mastodon.social"
+      - "+.wxw.moe"
+      - "+.octodon.social"
+      # other
+      - "+.skk.moe"
+
+dns:
+  enable: true
+  listen: 0.0.0.0:10053
+  ipv6: true
+  default-nameserver:
+  # onedns
+    - 117.50.10.10
+    - 52.80.52.52
+  # proxy-server-nameserver:
+  #   - tls://1.0.0.1:853
+  enhanced-mode: fake-ip
+  nameserver:
+  - https://doh.onedns.net/dns-query
+  - tls://dot.onedns.net
+  fallback:
+  - 'https://mozilla.cloudflare-dns.com/dns-query'
+  - 'https://dns.google/dns-query'
+  - 'https://public.dns.iij.jp/dns-query'
+  - 'https://jp.tiar.app/dns-query'
+  - 'https://jp.tiarap.org/dns-query'
+  - 'tls://dot.tiar.app'
+  # - https://dns.twnic.tw/dns-query
+  # - https://doh-jp.blahdns.com/dns-query
+  # - quic://dns.adguard.com
