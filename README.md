@@ -1,7 +1,7 @@
 # Rules
 私用のClashルール
 
-基本的には個人用のGEOIPとGEOSITEの補充
+単独使用はだいぶ無理なので、GEOIPやGEOSITEと一緒につかてください
 
 不定期的に追加します
 
