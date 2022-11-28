@@ -1,4 +1,8 @@
 payload:
+  ## ウマ娘
+  ## - DOMAIN,prd-storage-umamusume.akamaized.net
+  - DOMAIN-SUFFIX,cygames.jp
+  - DOMAIN-KEYWORD,umamusume
   ## fate-go jp
   - DOMAIN-SUFFIX,fate-go.jp
   ## ミストレ
