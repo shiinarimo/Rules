@@ -4,6 +4,8 @@ payload:
   ## - DOMAIN-SUFFIX,cygames.jp
   ##- DOMAIN-KEYWORD,umamusume
   ## ----------GEOSITE cygames or category-games
+  ## D4DJ
+  - DOMAIN-SUFFIX,d4dj-groovy-mix.com
   ## fate-go jp
   - DOMAIN-SUFFIX,fate-go.jp
   ## ミストレ
