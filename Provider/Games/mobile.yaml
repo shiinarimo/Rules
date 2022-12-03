@@ -6,6 +6,7 @@ payload:
   ## ----------GEOSITE cygames or category-games
   ## D4DJ
   - DOMAIN-SUFFIX,d4dj-groovy-mix.com
+  - DOMAIN-SUFFIX,d4dj-donuts.net
   ## fate-go jp
   - DOMAIN-SUFFIX,fate-go.jp
   ## ミストレ
