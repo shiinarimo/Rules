@@ -5,6 +5,8 @@ payload:
   ##- DOMAIN-KEYWORD,umamusume
   ## ----------GEOSITE cygames or category-games
   ## idolmaster
+  - DOMAIN-SUFFIX,agrmt.channel.or.jp
+  - DOMAIN-SUFFIX,legal.bandainamcoent.co.jp
   - DOMAIN-SUFFIX,enza.fun
   - DOMAIN-SUFFIX,napp.catchingnow.com
   ## D4DJ
