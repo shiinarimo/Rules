@@ -6,6 +6,7 @@ payload:
   ## ----------GEOSITE cygames or category-games
   ## idolmaster
   - DOMAIN-SUFFIX,enza.fun
+  - DOMAIN-SUFFIX,napp.catchingnow.com
   ## D4DJ
   - DOMAIN-SUFFIX,d4dj-groovy-mix.com
   - DOMAIN-SUFFIX,d4dj-donuts.net
