@@ -4,6 +4,8 @@ payload:
   ## - DOMAIN-SUFFIX,cygames.jp
   ##- DOMAIN-KEYWORD,umamusume
   ## ----------GEOSITE cygames or category-games
+  ## idolmaster
+  - DOMAIN-SUFFIX,enza.fun
   ## D4DJ
   - DOMAIN-SUFFIX,d4dj-groovy-mix.com
   - DOMAIN-SUFFIX,d4dj-donuts.net
