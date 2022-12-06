@@ -2,6 +2,7 @@ payload:
 ##  访问加速用，可能不在geoip内
 ##  PROXY 
   - DOMAIN-SUFFIX,openai.com
+  - DOMAIN-SUFFIX,ghost.io
   - DOMAIN-SUFFIX,metacubex.one
   - DOMAIN-SUFFIX,deepl.com
   - DOMAIN-SUFFIX,catixs.net
