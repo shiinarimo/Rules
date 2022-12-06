@@ -4,6 +4,8 @@ payload:
   ## - DOMAIN-SUFFIX,cygames.jp
   ##- DOMAIN-KEYWORD,umamusume
   ## ----------GEOSITE cygames or category-games
+  ## 雀魂
+  - DOMAIN-SUFFIX,maj-soul.net
   ## idolmaster
   - DOMAIN-SUFFIX,agrmt.channel.or.jp
   - DOMAIN-SUFFIX,legal.bandainamcoent.co.jp
