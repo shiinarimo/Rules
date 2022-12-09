@@ -10,6 +10,11 @@
 ||dns4.flxdns.com^
 ||analytics.163.com^
 ||nie.res.netease.com.wscdns.com^
+# mumu globle
+||store-api.mumuglobal.com
+||mumu-global.fp.ps.easebar.com
+||api.mumuglobal.com
+||sentry.netease.com
 # nox ads
 ||appcenter-api.bignox.com^
 ||bi.noxgroup.com^
