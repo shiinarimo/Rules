@@ -12,7 +12,7 @@ payload:
   - DOMAIN-SUFFIX,nie.res.netease.com.wscdns.com
   - DOMAIN-SUFFIX,store-api.mumuglobal.com
   - DOMAIN-SUFFIX,mumu-global.fp.ps.easebar.com
-  # - DOMAIN-SUFFIX,api.mumuglobal.com   //update
+  - DOMAIN-SUFFIX,api.mumuglobal.com   //update？
   - DOMAIN-SUFFIX,sentry.netease.com
   # nox ads
   - DOMAIN-SUFFIX,appcenter-api.bignox.com
