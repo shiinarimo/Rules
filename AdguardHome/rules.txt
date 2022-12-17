@@ -17,6 +17,7 @@
 ||sentry.netease.com
 # nox ads
 ||appcenter-api.bignox.com^
+||launcher-api.bignox.com^
 ||bi.noxgroup.com^
 # ||api-new.bignox.com^
 ||api.bignox.com^
