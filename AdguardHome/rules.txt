@@ -13,7 +13,7 @@
 # mumu globle
 ||store-api.mumuglobal.com
 ||mumu-global.fp.ps.easebar.com
-||api.mumuglobal.com
+# ||api.mumuglobal.com
 ||sentry.netease.com
 # nox ads
 ||appcenter-api.bignox.com^
