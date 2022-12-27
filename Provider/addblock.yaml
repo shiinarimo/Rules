@@ -1,19 +1,36 @@
 payload:
   # mumu ads
-  - DOMAIN-SUFFIX,mumu.nie.netease.com
-  - DOMAIN-SUFFIX,mumu.163.com
-  - DOMAIN-SUFFIX,mumu-store-api.webapp.163.com
-  - DOMAIN-SUFFIX,g.fp.ps.netease.com.wscdns.com
-  - DOMAIN-SUFFIX,mumu-dl.fp.ps.netease.com.wsglb0.com
-  - DOMAIN-SUFFIX,mumu.res.netease.com.wsglb0.com
-  - DOMAIN-SUFFIX,mr.da.netease.com
-  - DOMAIN-SUFFIX,game-cache.nie.163.com
-  - DOMAIN-SUFFIX,dns4.flxdns.com
-  - DOMAIN-SUFFIX,analytics.163.com
-  - DOMAIN-SUFFIX,nie.res.netease.com.wscdns.com
+  # - DOMAIN-SUFFIX,mumu.nie.netease.com
+  # - DOMAIN-SUFFIX,mumu-store-api.webapp.163.com
+  # - DOMAIN-SUFFIX,g.fp.ps.netease.com.wscdns.com
+  # - DOMAIN-SUFFIX,mumu-dl.fp.ps.netease.com.wsglb0.com
+  # - DOMAIN-SUFFIX,mumu.res.netease.com.wsglb0.com
+  # - DOMAIN-SUFFIX,mr.da.netease.com
+  # - DOMAIN-SUFFIX,game-cache.nie.163.com
+  # - DOMAIN-SUFFIX,dns4.flxdns.com
+  # - DOMAIN-SUFFIX,analytics.163.com
+  # - DOMAIN-SUFFIX,nie.res.netease.com.wscdns.com
+  # - DOMAIN-SUFFIX,store-api.mumuglobal.com
+  # - DOMAIN-SUFFIX,mumu-global.fp.ps.easebar.com
+  # - DOMAIN-SUFFIX,api.mumuglobal.com   //update？
+  # - DOMAIN-SUFFIX,sentry.netease.com
   # nox ads
   - DOMAIN-SUFFIX,appcenter-api.bignox.com
   - DOMAIN-SUFFIX,bi.noxgroup.com
-  - DOMAIN-SUFFIX,api-new.bignox.com
+  # - DOMAIN-SUFFIX,api-new.bignox.com
   - DOMAIN-SUFFIX,api.bignox.com
-
+  # qq + baidu
+  - DOMAIN-SUFFIX,dns.weixin.qq.com.cn
+  - DOMAIN-SUFFIX,aedns.weixin.qq.com
+  - DOMAIN-SUFFIX,dns.weixin.qq.com
+  - DOMAIN-SUFFIX,api.map.baidu.com
+  - DOMAIN-SUFFIX,offnavi.map.baidu.com
+  - DOMAIN-SUFFIX,newvector.map.baidu.com
+  - DOMAIN-SUFFIX,aedns.weixin.qq.com
+  - DOMAIN-SUFFIX,ulog.imap.baidu.com
+  - DOMAIN-SUFFIX,newloc.map.n.shifen.com
+  - DOMAIN-SUFFIX,sv.map.baidu.com
+  # ldplayer
+  - DOMAIN-SUFFIX,appstore.ldmnq.com
+  - DOMAIN-SUFFIX,apitw.ldmnq.com
+  - DOMAIN-SUFFIX,storetw.ldmnq.com

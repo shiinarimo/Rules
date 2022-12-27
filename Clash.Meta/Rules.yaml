@@ -1,0 +1,124 @@
+rule-providers:
+  RimoProxy:
+    type: http
+    behavior: "classical"
+    url: "https://gh.shiina-rimo.cafe/https://raw.githubusercontent.com/shiinarimo/Rules/main/Provider/PROXY.yaml"
+    path: ./ruleset/RimoProxy.yaml
+    interval: 10800
+
+  Youtube:
+    type: http
+    behavior: "classical"
+    url: "https://gh.shiina-rimo.cafe/https://raw.githubusercontent.com/shiinarimo/Rules-1/master/Clash-RuleSet-Classical/Global-Services/YouTube.yaml"
+    path: ./ruleset/Media/Youtube.yaml
+    interval: 10800
+
+  Media-Other:
+    type: http
+    behavior: "classical"
+    url: "https://gh.shiina-rimo.cafe/https://raw.githubusercontent.com/shiinarimo/Rules/main/Provider/Media/Others.yaml"
+    path: ./ruleset/Media/Other.yaml
+    interval: 10800
+
+  Mobile-game:
+    type: http
+    behavior: "classical"
+    url: "https://gh.shiina-rimo.cafe/https://raw.githubusercontent.com/shiinarimo/Rules/main/Provider/Games/mobile.yaml"
+    path: ./ruleset/Game/Mobile.yaml
+    interval: 10800
+
+  PC-game:
+    type: http
+    behavior: "classical"
+    url: "https://gh.shiina-rimo.cafe/https://raw.githubusercontent.com/shiinarimo/Rules/main/Provider/Games/PC.yaml"
+    path: ./ruleset/Game/PC.yaml
+    interval: 10800
+
+  Block:
+    type: http
+    behavior: "classical"
+    url: "https://gh.shiina-rimo.cafe/https://raw.githubusercontent.com/shiinarimo/Rules-3/main/Clash/Provider/Reject.yaml"
+    path: ./ruleset/Block/Adblock.yaml
+    interval: 10800
+
+  Adddirect:
+    type: http
+    behavior: "classical"
+    url: "https://gh.shiina-rimo.cafe/https://raw.githubusercontent.com/shiinarimo/Rules/main/Provider/adddirect.yaml"
+    path: ./ruleset/Adddirect.yaml
+    interval: 10800
+
+  Speedtest-dlerio:
+    type: http
+    behavior: "classical"
+    url: "https://gh.shiina-rimo.cafe/https://raw.githubusercontent.com/shiinarimo/Rules-3/main/Clash/Provider/Speedtest.yaml"
+    path: ./ruleset/Speedtest/Speedtest-dlerio.yaml
+    interval: 10800
+
+  Addproxy:
+    type: http
+    behavior: "classical"
+    url: "https://gh.shiina-rimo.cafe/https://raw.githubusercontent.com/shiinarimo/Rules/main/Provider/addproxy.yaml"
+    path: ./ruleset/Addproxy.yaml
+    interval: 10800
+  
+  Addblock:
+    type: http
+    behavior: "classical"
+    url: "https://gh.shiina-rimo.cafe/https://raw.githubusercontent.com/shiinarimo/Rules/main/Provider/addblock.yaml"
+    path: ./ruleset/Addblock.yaml
+    interval: 10800
+
+  anti-AD:
+    type: http
+    behavior: "domain"
+    url: "https://anti-ad.net/clash.yaml"
+    path: ./ruleset/anti-ad.yaml
+    interval: 10800
+
+rules:
+  # - RULE-SET,RimoProxy,🚀 节点选择
+  - IN-TYPE,HTTP,🚀 节点选择   # HTTP端口全局代理
+  - IN-TYPE,INNER,♻️ 自动选择
+  - GEOSITE,category-ads-all,📍 拦截
+  - RULE-SET,Block,📍 拦截
+  - RULE-SET,anti-AD,📍 拦截
+  - RULE-SET,Addblock,📍 拦截
+  - RULE-SET,Addproxy,🌐 分区代理
+  - GEOSITE,ehentai,🌐 分区代理
+  - GEOSITE,discord,📲 SNS
+  - GEOSITE,facebook,📲 SNS
+  - GEOSITE,twitter,📲 SNS
+  - GEOSITE,line,📲 SNS
+  - GEOIP,telegram,📲 SNS,no-resolve
+  - GEOSITE,youtube,📢 音乐/🌍 流媒体
+  - GEOSITE,amazon,📢 音乐/🌍 流媒体
+  - GEOSITE,spotify,📢 音乐/🌍 流媒体
+  - GEOSITE,soundCloud,📢 音乐/🌍 流媒体
+  - GEOSITE,twitch,📢 音乐/🌍 流媒体
+  - GEOSITE,niconico,📢 音乐/🌍 流媒体
+  - GEOSITE,abema,📢 音乐/🌍 流媒体
+  - RULE-SET,Media-Other,📢 音乐/🌍 流媒体
+  - GEOSITE,bahamut,🌀 流媒体/Bahamut
+  - GEOSITE,netflix,🎥 Netflix
+  - GEOIP,netflix,🎥 Netflix,no-resolve
+  - AND,((GEOSITE,microsoft),(NOT,((GEOSITE,microsoft@cn)))),Ⓜ️ Microsoft
+  # - GEOSITE,Microsoft,Ⓜ️ Microsoft
+  - AND,((GEOSITE,steam),(NOT,((GEOSITE,steam@cn)))),🍜 Steam
+  # - RULE-SET,Steam,🍜 Steam
+  - RULE-SET,Mobile-game,⛩️ 游戏
+  - RULE-SET,PC-game,⛩️ 游戏
+  - GEOSITE,speedtest,🚄 测速
+  - RULE-SET,Speedtest-dlerio,🚄 测速
+  # - GEOSITE,category-games@cn,🎯 境内
+  - GEOSITE,geolocation-cn,🎯 境内
+  - GEOIP,CN,🎯 境内,no-resolve
+  - GEOIP,private,DIRECT,no-resolve
+  - GEOSITE,google,🗺 Google
+  - GEOSITE,gfw,🚀 节点选择
+  - GEOSITE,greatfire,🚀 节点选择
+  - GEOSITE,cloudflare,🚀 节点选择
+  - GEOSITE,aws,🚀 节点选择
+  - RULE-SET,RimoProxy,🚀 节点选择
+  # - AND,((NETWORK,UDP),(NOT,((GEOIP,CN)))),🚀 节点选择  #UDP代理
+  - MATCH,🐟 其它

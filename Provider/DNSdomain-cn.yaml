@@ -1,0 +1,16 @@
+payload:
+## For private
+  - DOMAIN,doh.pub
+  - DOMAIN,dot.pub
+  - DOMAIN,sm2.doh.pub
+  - DOMAIN,dns.alidns.com
+  - DOMAIN,dot.360.cn
+  - DOMAIN,doh.360.cn
+  - DOMAIN,dns.cfiec,net
+  - DOMAIN,dns.rubyfish.cn
+  - DOMAIN,v6.rubyfish.cn
+  - DOMAIN,i.233py.com
+  - DOMAIN,a.vvvglass.com
+  - DOMAIN,b.vvvglass.com
+  - DOMAIN,dot.onedns.net
+  - DOMAIN,doh.onedns.net

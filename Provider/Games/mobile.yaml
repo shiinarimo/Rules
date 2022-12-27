@@ -1,4 +1,19 @@
 payload:
+  ## ウマ娘
+  ## - DOMAIN,prd-storage-umamusume.akamaized.net
+  ## - DOMAIN-SUFFIX,cygames.jp
+  ##- DOMAIN-KEYWORD,umamusume
+  ## ----------GEOSITE cygames or category-games
+  ## 雀魂
+  - DOMAIN-SUFFIX,maj-soul.net
+  ## idolmaster
+  - DOMAIN-SUFFIX,agrmt.channel.or.jp
+  - DOMAIN-SUFFIX,legal.bandainamcoent.co.jp
+  - DOMAIN-SUFFIX,enza.fun
+  - DOMAIN-SUFFIX,napp.catchingnow.com
+  ## D4DJ
+  - DOMAIN-SUFFIX,d4dj-groovy-mix.com
+  - DOMAIN-SUFFIX,d4dj-donuts.net
   ## fate-go jp
   - DOMAIN-SUFFIX,fate-go.jp
   ## ミストレ
