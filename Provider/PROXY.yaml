@@ -9,6 +9,8 @@ payload:
   - DOMAIN-SUFFIX,kemono.party
   - DOMAIN-SUFFIX,novelai.net
   - DOMAIN-SUFFIX,gitbook.com
+## kaspersky-labs
+  - DOMAIN-SUFFIX,kaspersky-labs.com
 ## ？？？
   - DOMAIN-KEYWORD,tagvpnglobal.com
   - DOMAIN-KEYWORD,dlercloud
