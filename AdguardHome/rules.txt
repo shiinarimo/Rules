@@ -39,5 +39,3 @@
 ||ulog.imap.baidu.com^
 ||newloc.map.n.shifen.com^
 ||sv.map.baidu.com^
-# F-Droid
-@@||guardianproject.info^$important

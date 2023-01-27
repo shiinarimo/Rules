@@ -1,0 +1,4 @@
+# F-Droid
+@@||guardianproject.info^$important
+# mirror
+@@||mirrors.tencent.com^$important
