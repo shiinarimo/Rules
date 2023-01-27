@@ -34,7 +34,31 @@ sniffer:
     - '+.amazonaws.com'
     - '+.media.dssott.com'
 
-fallback-filter:
+dns:
+  enable: true
+  listen: 0.0.0.0:10053
+  ipv6: true
+  default-nameserver:
+  # onedns
+    - 117.50.10.10
+    - 52.80.52.52
+  # proxy-server-nameserver:
+  #   - tls://1.0.0.1:853
+  enhanced-mode: fake-ip
+  nameserver:
+  - https://doh.onedns.net/dns-query
+  - tls://dot.onedns.net
+  fallback:
+  - 'https://mozilla.cloudflare-dns.com/dns-query'
+  - 'https://dns.google/dns-query'
+  - 'https://public.dns.iij.jp/dns-query'
+  - 'https://jp.tiar.app/dns-query'
+  - 'https://jp.tiarap.org/dns-query'
+  - 'tls://dot.tiar.app'
+  # - https://dns.twnic.tw/dns-query
+  # - https://doh-jp.blahdns.com/dns-query
+  # - quic://dns.adguard.com
+  fallback-filter:
     geoip: true                      #为真时，不匹配为geoip规则的使用fallback返回结果
     geoip-code: CN                   #geoip匹配区域设定
     geosite:                         #【Meta专属】设定geosite某分类使用fallback返回结果
@@ -91,28 +115,3 @@ fallback-filter:
       - "+.octodon.social"
       # other
       - "+.skk.moe"
-
-dns:
-  enable: true
-  listen: 0.0.0.0:10053
-  ipv6: true
-  default-nameserver:
-  # onedns
-    - 117.50.10.10
-    - 52.80.52.52
-  # proxy-server-nameserver:
-  #   - tls://1.0.0.1:853
-  enhanced-mode: fake-ip
-  nameserver:
-  - https://doh.onedns.net/dns-query
-  - tls://dot.onedns.net
-  fallback:
-  - 'https://mozilla.cloudflare-dns.com/dns-query'
-  - 'https://dns.google/dns-query'
-  - 'https://public.dns.iij.jp/dns-query'
-  - 'https://jp.tiar.app/dns-query'
-  - 'https://jp.tiarap.org/dns-query'
-  - 'tls://dot.tiar.app'
-  # - https://dns.twnic.tw/dns-query
-  # - https://doh-jp.blahdns.com/dns-query
-  # - quic://dns.adguard.com
