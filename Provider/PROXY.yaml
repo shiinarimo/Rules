@@ -1,4 +1,4 @@
-See allpayload:
+payload:
 ##  访问加速用，可能不在geoip内
 ##  PROXY 
   - DOMAIN-SUFFIX,crates.io
@@ -11,7 +11,7 @@ See allpayload:
   - DOMAIN-SUFFIX,gitbook.com
   - DOMAIN-SUFFIX,jsdelivr.net
 ## ？？？
-  - DOMAIN-KEYWORD,tagvpnglobal.com
+  - DOMAIN-SUFFIX,tagvpnglobal.com
   - DOMAIN-KEYWORD,dlercloud
   - DOMAIN-SUFFIX,nexitally.com
   - DOMAIN-SUFFIX,amysecure.com
@@ -32,7 +32,7 @@ See allpayload:
 ## bitdefender（test）
   - DOMAIN-SUFFIX,bitdefender.net
 ## piapro
-  - DOMAIN-KEYWORD,piapro.jp
+  - DOMAIN-SUFFIX,piapro.jp
 ## 经济危机
   - DOMAIN-SUFFIX,okex.com
   - DOMAIN-SUFFIX,okx.com
@@ -102,4 +102,3 @@ See allpayload:
   - DOMAIN-SUFFIX,streamtape.com
   - DOMAIN-SUFFIX,seeautumn.com
   - DOMAIN-SUFFIX,adtidy.org
-##  - DOMAIN-SUFFIX,xn--ngstr-lra8j.com
