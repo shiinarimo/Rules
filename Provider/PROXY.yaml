@@ -1,4 +1,4 @@
-payload:
+See allpayload:
 ##  访问加速用，可能不在geoip内
 ##  PROXY 
   - DOMAIN-SUFFIX,crates.io
@@ -102,3 +102,4 @@ payload:
   - DOMAIN-SUFFIX,streamtape.com
   - DOMAIN-SUFFIX,seeautumn.com
   - DOMAIN-SUFFIX,adtidy.org
+##  - DOMAIN-SUFFIX,xn--ngstr-lra8j.com
