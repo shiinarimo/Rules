@@ -67,7 +67,11 @@ payload:
    ## > 雀魂 国际
   - DOMAIN-SUFFIX,maj-soul.com
    ## > うま娘
+  - DOMAIN,prd-storage-app-umamusume.akamaized.net
+  - DOMAIN,prd-storage-game-umamusume.akamaized.net
   - DOMAIN,prd-storage-umamusume.akamaized.net
-  ## - DOMAIN-SUFFIX,cygames.jp
-  ## - DOMAIN-KEYWORD,umamusume
-  ## ----------GEOSITE cygames or category-games
+  - DOMAIN-SUFFIX,umamusume.jp
+  # - DOMAIN,api-umamusume.cygames.jp
+  # - DOMAIN-SUFFIX,cygames.jp
+  # - DOMAIN-KEYWORD,umamusume
+  # ----------GEOSITE cygames or category-games
