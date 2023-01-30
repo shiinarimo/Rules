@@ -1,9 +1,4 @@
 payload:
-  ## ウマ娘
-  ## - DOMAIN,prd-storage-umamusume.akamaized.net
-  ## - DOMAIN-SUFFIX,cygames.jp
-  ##- DOMAIN-KEYWORD,umamusume
-  ## ----------GEOSITE cygames or category-games
   ## 雀魂
   - DOMAIN-SUFFIX,maj-soul.net
   ## idolmaster
@@ -71,3 +66,8 @@ payload:
   - DOMAIN-SUFFIX,unityedu.com.cn
    ## > 雀魂 国际
   - DOMAIN-SUFFIX,maj-soul.com
+   ## > うま娘
+  - DOMAIN,prd-storage-umamusume.akamaized.net
+  ## - DOMAIN-SUFFIX,cygames.jp
+  ## - DOMAIN-KEYWORD,umamusume
+  ## ----------GEOSITE cygames or category-games
