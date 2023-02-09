@@ -76,5 +76,7 @@ payload:
   # - DOMAIN-KEYWORD,umamusume
   # ----------GEOSITE cygames or category-games
   
-   ## > ドルフィンウェーブ
+   ## > ドルフィンウェーブ（test）
   - DOMAIN,x-cdn-dolphin.marv-games.jp
+   ## > dmm マギアレコード（test）
+  - DOMAIN,dmm.magi-reco.com
