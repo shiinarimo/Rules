@@ -75,3 +75,6 @@ payload:
   # - DOMAIN-SUFFIX,cygames.jp
   # - DOMAIN-KEYWORD,umamusume
   # ----------GEOSITE cygames or category-games
+  
+   ## > ドルフィンウェーブ
+  - DOMAIN,x-cdn-dolphin.marv-games.jp
