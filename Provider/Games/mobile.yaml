@@ -51,6 +51,7 @@ payload:
   - DOMAIN-SUFFIX,minori.ph
   - DOMAIN-SUFFIX,tenco.cc
   - DOMAIN-SUFFIX,wheel-soft.com
+  - DOMAIN-SUFFIX,dmmgames.com
    ## > 艦これ （html5+android）
   - DOMAIN-SUFFIX,urbanairship.com
   - IP-CIDR,125.6.189.215/32
