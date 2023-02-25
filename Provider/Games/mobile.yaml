@@ -1,4 +1,7 @@
 payload:
+  ## World II World
+  - DOMAIN-SUFFIX,prd.nikoichi-api.quatroa.app
+  - DOMAIN-SUFFIX,prd-static.nikoichi.quatroa.app
   ## 雀魂
   - DOMAIN-SUFFIX,maj-soul.net
   ## idolmaster
