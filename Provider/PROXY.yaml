@@ -64,6 +64,7 @@ payload:
   - DOMAIN-SUFFIX,jiku-chu.com
   - DOMAIN-SUFFIX,suruga-ya.jp
   - DOMAIN-SUFFIX,melonbooks.co.jp
+  - DOMAIN-SUFFIX,melonbooks.akamaized.net
   - DOMAIN-SUFFIX,patreon.com
   - DOMAIN-SUFFIX,patreonusercontent.com
   - DOMAIN-SUFFIX,stripe.network
