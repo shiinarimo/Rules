@@ -1,6 +1,7 @@
 payload:
 ##  访问加速用，可能不在gfwlist内
 ##  PROXY 
+  - DOMAIN-SUFFIX,wemod.com
   - DOMAIN-SUFFIX,appmedia.jp
   - DOMAIN-SUFFIX,crates.io
   - DOMAIN-SUFFIX,metacubex.one
