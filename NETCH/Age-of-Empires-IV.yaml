@@ -18,3 +18,4 @@ payload:
   - IP-CIDR,117.18.237.0/24
   - DOMAIN-SUFFIX,aoe-api.reliclink.com
   - DOMAIN-SUFFIX,ageofempires.com
+  - DOMAIN-SUFFIX,xboxservices.com
