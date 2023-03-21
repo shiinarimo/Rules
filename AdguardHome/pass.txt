@@ -2,3 +2,7 @@
 @@||guardianproject.info^$important
 # mirror
 @@||mirrors.tencent.com^$important
+# Hiby update domain
+@@||fota5s.adups.com^$important
+# play store update
+@@||beacons.gcp.gvt2.com^$important
