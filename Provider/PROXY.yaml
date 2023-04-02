@@ -23,6 +23,8 @@ payload:
   - DOMAIN-SUFFIX,tagss.pro
   - DOMAIN-SUFFIX,tagvpn.xyz
   - DOMAIN-SUFFIX,boccc.co
+## Warp用
+  - DOMAIN-SUFFIX,cloudflare-gateway.com
 ## > paiza.jp的小游戏
   - DOMAIN-SUFFIX,vimeo.com
   - DOMAIN-SUFFIX,paiza.jp
