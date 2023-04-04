@@ -85,3 +85,5 @@ payload:
   - DOMAIN,x-cdn-dolphin.marv-games.jp
    ## > dmm マギアレコード（test）
   - DOMAIN,dmm.magi-reco.com
+   ## > ブルリラS
+  - DOMAIN-SUFFIX,bluereflection-sun.gamecity.ne.jp
