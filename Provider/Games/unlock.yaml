@@ -1,0 +1,5 @@
+payload:
+  ## For game unlock in lowest cost
+  ## Use home broadband ip to access following domain names
+  ## DMM
+  - DOMAIN,api-mission.games.dmm.com
