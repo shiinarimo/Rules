@@ -65,6 +65,7 @@ payload:
    ## > dmmgames  
   - DOMAIN-SUFFIX,dmmgames.com
   - DOMAIN-SUFFIX,games.dmm.co.jp
+  - DOMAIN-SUFFIX,games.dmm.com
    ## > ドルフィンウェーブ（test）
   - DOMAIN,x-cdn-dolphin.marv-games.jp
    ## > dmm マギアレコード（test）
