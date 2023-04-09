@@ -64,6 +64,7 @@ payload:
   # ----------GEOSITE cygames or category-games
    ## > dmmgames  
   - DOMAIN-SUFFIX,dmmgames.com
+  - DOMAIN-SUFFIX,games.dmm.co.jp
    ## > ドルフィンウェーブ（test）
   - DOMAIN,x-cdn-dolphin.marv-games.jp
    ## > dmm マギアレコード（test）
