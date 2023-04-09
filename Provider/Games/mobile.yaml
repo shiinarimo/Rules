@@ -37,13 +37,29 @@ payload:
   ## > BanG Dream!（バンドリ！）
   - DOMAIN-SUFFIX,craftegg.jp
   ##- DOMAIN-SUFFIX,cloudfront.net  //包含在proxy规则
-    ## > dmmgames  
+  ## > プロジェクトセカイ カラフルステージ！
+  - DOMAIN-SUFFIX,sekai.colorfulpalette.org
+  ## > 艦これ （html5+android）
+  - DOMAIN-SUFFIX,urbanairship.com
+  - IP-CIDR,125.6.189.215/32
+  - IP-CIDR,203.104.209.7/32
+  ## > うま娘
+  - DOMAIN,prd-storage-app-umamusume.akamaized.net
+  - DOMAIN,prd-storage-game-umamusume.akamaized.net
+  - DOMAIN,prd-storage-umamusume.akamaized.net
+  - DOMAIN-SUFFIX,umamusume.jp
+  # - DOMAIN,api-umamusume.cygames.jp
+  # - DOMAIN-SUFFIX,cygames.jp
+  # - DOMAIN-KEYWORD,umamusume
+  # ----------GEOSITE cygames or category-games
+
+  ## > dmmgames  
   - DOMAIN-SUFFIX,dmmgames.com
   - DOMAIN-SUFFIX,games.dmm.co.jp
   - DOMAIN-SUFFIX,games.dmm.com
   ## > ドルフィンウェーブ（test）
   - DOMAIN,x-cdn-dolphin.marv-games.jp
-   ## > dmm マギアレコード（test）
+  ## > dmm マギアレコード（test）
   - DOMAIN,dmm.magi-reco.com
   ## > ブルリラS
   - DOMAIN-SUFFIX,bluereflection-sun.gamecity.ne.jp
