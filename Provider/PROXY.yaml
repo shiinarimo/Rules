@@ -1,6 +1,8 @@
 payload:
 ##  访问加速用，可能不在gfwlist内
 ##  PROXY 
+  - DOMAIN-SUFFIX,gitbook.io
+  - DOMAIN-SUFFIX,wemod.com
   - DOMAIN-SUFFIX,appmedia.jp
   - DOMAIN-SUFFIX,crates.io
   - DOMAIN-SUFFIX,metacubex.one
@@ -12,14 +14,18 @@ payload:
   - DOMAIN-SUFFIX,novelai.net
   - DOMAIN-SUFFIX,gitbook.com
   - DOMAIN-SUFFIX,jsdelivr.net
+  - DOMAIN-SUFFIX,skeb.jp
 ## ？？？
   - DOMAIN-SUFFIX,tagvpnglobal.com
-  - DOMAIN-KEYWORD,dlercloud
+  - DOMAIN-SUFFIX,dlercloud.com
+  - DOMAIN-SUFFIX,dler.io
   - DOMAIN-SUFFIX,nexitally.com
   - DOMAIN-SUFFIX,amysecure.com
   - DOMAIN-SUFFIX,tagss.pro
   - DOMAIN-SUFFIX,tagvpn.xyz
   - DOMAIN-SUFFIX,boccc.co
+## Warp用
+  - DOMAIN-SUFFIX,cloudflare-gateway.com
 ## > paiza.jp的小游戏
   - DOMAIN-SUFFIX,vimeo.com
   - DOMAIN-SUFFIX,paiza.jp
@@ -65,6 +71,7 @@ payload:
   - DOMAIN-SUFFIX,jiku-chu.com
   - DOMAIN-SUFFIX,suruga-ya.jp
   - DOMAIN-SUFFIX,melonbooks.co.jp
+  - DOMAIN-SUFFIX,melonbooks.akamaized.net
   - DOMAIN-SUFFIX,patreon.com
   - DOMAIN-SUFFIX,patreonusercontent.com
   - DOMAIN-SUFFIX,stripe.network
@@ -104,3 +111,4 @@ payload:
   - DOMAIN-SUFFIX,streamtape.com
   - DOMAIN-SUFFIX,seeautumn.com
   - DOMAIN-SUFFIX,adtidy.org
+  - DOMAIN-SUFFIX,poe.com
