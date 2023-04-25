@@ -63,3 +63,5 @@ payload:
   - DOMAIN,dmm.magi-reco.com
   ## > ブルリラS
   - DOMAIN-SUFFIX,bluereflection-sun.gamecity.ne.jp
+  ## > 404 game reset
+  - DOMAIN-SUFFIX,404gr.com
