@@ -38,7 +38,7 @@ payload:
   - DOMAIN-SUFFIX,hostdon.jp
   - DOMAIN-SUFFIX,hostdon.ne.jp
 ## bitdefender（test）
-  # - DOMAIN-SUFFIX,bitdefender.net
+  - DOMAIN-SUFFIX,bitdefender.net
 ## piapro
   - DOMAIN-SUFFIX,piapro.jp
 ## 经济危机
