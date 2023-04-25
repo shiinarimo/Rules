@@ -1,3 +1,4 @@
 payload:
 ## kaspersky-labs
   - DOMAIN-SUFFIX,kaspersky-labs.com
+  - DOMAIN-SUFFIX,cdn.bitdefender.net
