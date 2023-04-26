@@ -48,7 +48,6 @@
 # Aliyun
 ||httpdns-api.aliyuncs.com
 ||httpdns-sc.aliyuncs.com
-IP-CIDR,203.107.1.0/24
 # Baidu
 ||httpsdns.baidu.com
 ||httpdns.baidu.com
