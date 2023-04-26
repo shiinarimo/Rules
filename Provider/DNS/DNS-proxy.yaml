@@ -1,10 +1,10 @@
 payload:
-  ## > Amazon
-  - DOMAIN-SUFFIX,cloudflare-dns.com
-  - DOMAIN-SUFFIX,doh.opendns.com
+  - DOMAIN,mozilla.cloudflare-dns.com
+  - DOMAIN,doh.opendns.com
   - DOMAIN-SUFFIX,dns.adguard.com
-  - DOMAIN-SUFFIX,dns.google
-  - DOMAIN-SUFFIX,quad9.net
+  - DOMAIN,dns.google
+  - DOMAIN,dns.quad9.net
+  - DOMAIN,public.dns.iij.jp
   - IP-CIDR,8.8.8.8/32,no-resolve
   - IP-CIDR,1.1.1.1/32,no-resolve
 ##  - IP-CIDR6,[2400:da00::6666/64],no-resolve
