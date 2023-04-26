@@ -29,9 +29,9 @@
 ||lum-cn.io^
 ||luminati-china.biz^
 # qq + baidu
-||dns.weixin.qq.com.cn^
+# ||dns.weixin.qq.com.cn^
 ||aedns.weixin.qq.com^
-||dns.weixin.qq.com^
+# ||dns.weixin.qq.com^
 ||api.map.baidu.com^
 ||offnavi.map.baidu.com^
 ||newvector.map.baidu.com^
@@ -39,3 +39,37 @@
 ||ulog.imap.baidu.com^
 ||newloc.map.n.shifen.com^
 ||sv.map.baidu.com^
+
+# httpdns
+# 规则来源 https://github.com/VirgilClyne/GetSomeFries/wiki/🚫-HTTPDNS
+
+# Alibaba
+||httpdns.alicdn.com
+# Aliyun
+||httpdns-api.aliyuncs.com
+||httpdns-sc.aliyuncs.com
+IP-CIDR,203.107.1.0/24
+# Baidu
+||httpsdns.baidu.com
+||httpdns.baidu.com
+# BaiduBCE
+||httpdns.baidubce.com
+# Bilibili
+||httpdns.bilivideo.com
+# Huawei
+||httpdns.c.cdnhwc2.com
+# JD
+||dns.jd.com
+# NetEase
+||httpdns.n.netease.com
+||music.httpdns.c.163.com
+||lofter.httpdns.c.163.com
+# Oppo
+||httpdns.push.oppomobile.com
+# Volcengine
+||httpdns.volcengineapi.com
+# Weibo
+||dns.weibo.cn
+# Weixin
+||dns.weixin.qq.com
+||dns.weixin.qq.com.cn
