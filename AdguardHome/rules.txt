@@ -21,6 +21,9 @@
 ||bi.noxgroup.com^
 # ||api-new.bignox.com^
 ||api.bignox.com^
+# memu
+||www.microvirt.com^
+||stat.microvirt.com^
 # brightdata（aka luminati）
 ||lum-sdk.io^
 ||luminatinet.com^
