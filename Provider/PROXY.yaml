@@ -21,9 +21,7 @@ payload:
   - DOMAIN-SUFFIX,dler.io
   - DOMAIN-SUFFIX,nexitally.com
   - DOMAIN-SUFFIX,amysecure.com
-  - DOMAIN-SUFFIX,tagss.pro
-  - DOMAIN-SUFFIX,tagvpn.xyz
-  - DOMAIN-SUFFIX,boccc.co
+  - DOMAIN-SUFFIX,tagss01.pro
 ## Warp用
   - DOMAIN-SUFFIX,cloudflare-gateway.com
 ## > paiza.jp的小游戏
