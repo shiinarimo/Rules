@@ -4,3 +4,5 @@ payload:
   - DOMAIN-SUFFIX,donmai.us
   - DOMAIN-SUFFIX,openai.com
   - DOMAIN-SUFFIX,ghost.io
+## > 轻书架
+  - DOMAIN-SUFFIX,lightnovel.app
