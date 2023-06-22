@@ -9,3 +9,5 @@ payload:
   - DOMAIN-SUFFIX,viveport.com
   ## > gamecom
   - DOMAIN-SUFFIX,gamecom.jp
+  ## > steam
+  - DOMAIN-SUFFIX,steam.tv
