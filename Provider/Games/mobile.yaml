@@ -36,7 +36,7 @@ payload:
   - DOMAIN-SUFFIX,d2ilil7yh5oi1v.cloudfront.net
   ## > BanG Dream!（バンドリ！）
   - DOMAIN-SUFFIX,craftegg.jp
-  ##- DOMAIN-SUFFIX,cloudfront.net  //包含在proxy规则
+  #- DOMAIN-SUFFIX,cloudfront.net  //包含在proxy规则
   ## > プロジェクトセカイ カラフルステージ！
   - DOMAIN-SUFFIX,sekai.colorfulpalette.org
   ## > 艦これ （html5+android）
@@ -48,11 +48,6 @@ payload:
   - DOMAIN,prd-storage-game-umamusume.akamaized.net
   - DOMAIN,prd-storage-umamusume.akamaized.net
   - DOMAIN-SUFFIX,umamusume.jp
-  # - DOMAIN,api-umamusume.cygames.jp
-  # - DOMAIN-SUFFIX,cygames.jp
-  # - DOMAIN-KEYWORD,umamusume
-  # ----------GEOSITE cygames or category-games
-
   ## > dmmgames  
   - DOMAIN-SUFFIX,dmmgames.com
   - DOMAIN-SUFFIX,games.dmm.co.jp
