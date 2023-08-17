@@ -113,3 +113,7 @@ payload:
   - DOMAIN-SUFFIX,poe.com
   - DOMAIN-SUFFIX,sagernet.org
   - DOMAIN-SUFFIX,greasyfork.org
+## Qooapp
+  - DOMAIN-SUFFIX,qoo-img.com
+  - DOMAIN-SUFFIX,qoo-apk.com
+  - DOMAIN-SUFFIX,qoo-app.com
