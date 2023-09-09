@@ -22,3 +22,5 @@ payload:
 ##-   - DOMAIN-SUFFIX,cangku.io
 ## > bandcamp
   - DOMAIN-SUFFIX,bandcamp.com
+## > emby
+  - DOMAIN-SUFFIX,misakaf.org
