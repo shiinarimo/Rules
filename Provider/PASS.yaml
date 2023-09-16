@@ -1,4 +1,0 @@
-payload:
-# For abemaTV app / allow ads
-  - DOMAIN-SUFFIX,mobile-collector.newrelic.com
-  - DOMAIN-SUFFIX,avod.ad.abema.io

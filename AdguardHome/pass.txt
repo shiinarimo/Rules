@@ -4,3 +4,5 @@
 @@||mirrors.tencent.com^$important
 # Hiby update domain
 @@||fota5s.adups.com^$important
+# 修复abema等使用SDK的app无法播放
+@@||imasdk.googleapis.com^$important
