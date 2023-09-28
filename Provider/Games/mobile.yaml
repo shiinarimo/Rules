@@ -65,3 +65,4 @@ payload:
   - DOMAIN,gslb-gamebase.nhncloudservice.com
   - DOMAIN,api-logncrash.cloud.toast.com
   - DOMAIN,api-push.cloud.toast.com
+  - DOMAIN,cps.nhn-playart.com
