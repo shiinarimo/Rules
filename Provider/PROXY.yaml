@@ -119,3 +119,6 @@ payload:
   - DOMAIN-SUFFIX,qoo-apk.com
   - DOMAIN-SUFFIX,qoo-app.com
   - DOMAIN-SUFFIX,qooapp.io
+## Game DL
+  # コンパス
+  - DOMAIN,cps-down.hangame.co.jp
