@@ -5,7 +5,7 @@ payload:
   - DOMAIN,prd.nikoichi-cms.quatroa.app
   ## 雀魂
   - DOMAIN-SUFFIX,maj-soul.net
-   ## > 雀魂 国际
+  ## > 雀魂 国际
   - DOMAIN-SUFFIX,maj-soul.com
   ## idolmaster
   - DOMAIN-SUFFIX,agrmt.channel.or.jp
