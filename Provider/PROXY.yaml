@@ -111,6 +111,7 @@ payload:
   - DOMAIN-SUFFIX,seeautumn.com
   - DOMAIN-SUFFIX,adtidy.org
   - DOMAIN-SUFFIX,poe.com
+  - DOMAIN-SUFFIX,poecdn.net
   - DOMAIN-SUFFIX,sagernet.org
   - DOMAIN-SUFFIX,greasyfork.org
 ## Qooapp
