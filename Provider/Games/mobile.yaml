@@ -60,3 +60,8 @@ payload:
   - DOMAIN-SUFFIX,bluereflection-sun.gamecity.ne.jp
   ## > 404 game reset
   - DOMAIN-SUFFIX,404gr.com
+  ## > コンパス
+  - DOMAIN,cps-down.hangame.co.jp
+  - DOMAIN,gslb-gamebase.nhncloudservice.com
+  - DOMAIN,api-logncrash.cloud.toast.com
+  - DOMAIN,api-push.cloud.toast.com
