@@ -1,7 +1,7 @@
 payload:
 ##  访问加速用，可能不在gfwlist内
 ##  PROXY 
-  - DOMAIN-SUFFIX,gitbook.io
+  # - DOMAIN-SUFFIX,gitbook.io //geosite:category-dev
   - DOMAIN-SUFFIX,wemod.com
   - DOMAIN-SUFFIX,appmedia.jp
   - DOMAIN-SUFFIX,crates.io
@@ -41,9 +41,9 @@ payload:
 ## piapro
   - DOMAIN-SUFFIX,piapro.jp
 ## 经济危机
-  - DOMAIN-SUFFIX,okex.com
-  - DOMAIN-SUFFIX,okx.com
-  - DOMAIN-SUFFIX,hi.com
+  # - DOMAIN-SUFFIX,okex.com
+  # - DOMAIN-SUFFIX,okx.com
+  # - DOMAIN-SUFFIX,hi.com
   - DOMAIN-SUFFIX,lokalise.co
   - DOMAIN-SUFFIX,pexpay.com
 ##
@@ -94,11 +94,10 @@ payload:
   - DOMAIN-SUFFIX,wxw.moe
   - DOMAIN-SUFFIX,octodon.social
   - DOMAIN-SUFFIX,vocalodon.net
-## > bitdefender（test）
-## > booth
-  - DOMAIN-SUFFIX,booth.pm
-## > V2EX
-  - DOMAIN-SUFFIX,v2ex.com
+## > booth //geosite:pixiv
+#- DOMAIN-SUFFIX,booth.pm
+## > V2EX //geosite:category-forums
+#  - DOMAIN-SUFFIX,v2ex.com
 ## > キントク
   - DOMAIN-SUFFIX,gamepedia.jp
 ## > textfree
@@ -110,8 +109,8 @@ payload:
   - DOMAIN-SUFFIX,streamtape.com
   - DOMAIN-SUFFIX,seeautumn.com
   - DOMAIN-SUFFIX,adtidy.org
-  - DOMAIN-SUFFIX,poe.com
-  - DOMAIN-SUFFIX,poecdn.net
+  # - DOMAIN-SUFFIX,poe.com //geosite:quora
+  # - DOMAIN-SUFFIX,poecdn.net
   - DOMAIN-SUFFIX,sagernet.org
   - DOMAIN-SUFFIX,greasyfork.org
 ## Qooapp

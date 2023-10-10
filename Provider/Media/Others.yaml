@@ -17,10 +17,8 @@ payload:
 ## > pic
   - DOMAIN-SUFFIX,yande.re
   - DOMAIN-SUFFIX,sankaku.plus
-  - DOMAIN-SUFFIX,sankakucomplex.com
+  # - DOMAIN-SUFFIX,sankakucomplex.com //geosite:category-porn
 ## > cangku/cangku媒体
 ##-   - DOMAIN-SUFFIX,cangku.io
-## > bandcamp
-  - DOMAIN-SUFFIX,bandcamp.com
 ## > emby
   - DOMAIN-SUFFIX,misakaf.org
