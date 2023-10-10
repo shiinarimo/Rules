@@ -14,9 +14,7 @@ payload:
 ## -   - DOMAIN-KEYWORD,txdm.net
 ## > Kiite(キイテ)
   - DOMAIN-SUFFIX,kiite.jp
-## > pic
-  - DOMAIN-SUFFIX,yande.re
-  - DOMAIN-SUFFIX,sankaku.plus
+  # - DOMAIN-SUFFIX,sankaku.plus
   # - DOMAIN-SUFFIX,sankakucomplex.com //geosite:category-porn
 ## > cangku/cangku媒体
 ##-   - DOMAIN-SUFFIX,cangku.io
