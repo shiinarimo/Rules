@@ -8,8 +8,6 @@ payload:
   - DOMAIN-SUFFIX,mora.jp
   - DOMAIN-SUFFIX,deezer.com
   - DOMAIN-SUFFIX,dzcdn.net
-## > FANTIA
-  - DOMAIN-SUFFIX,fantia.jp
 ## > tsdm
 ## -   - DOMAIN-KEYWORD,txdm.net
 ## > Kiite(キイテ)
