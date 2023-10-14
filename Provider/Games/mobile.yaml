@@ -66,3 +66,5 @@ payload:
   - DOMAIN,api-logncrash.cloud.toast.com
   - DOMAIN,api-push.cloud.toast.com
   - DOMAIN,cps.nhn-playart.com
+  ## > レスレリアーナトリア
+  - DOMAIN-SUFFIX,game.resleriana.jp
