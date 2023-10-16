@@ -68,3 +68,5 @@ payload:
   - DOMAIN,cps.nhn-playart.com
   ## > レスレリアーナトリア
   - DOMAIN-SUFFIX,resleriana.jp
+  ## > FF7 EC
+  - DOMAIN-SUFFIX,jp.ffviiec.com
