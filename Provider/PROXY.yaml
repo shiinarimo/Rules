@@ -23,6 +23,7 @@ payload:
   - DOMAIN-SUFFIX,amysecure.com
   - DOMAIN-SUFFIX,tagss01.pro
   - DOMAIN-SUFFIX,tagss.pro
+  - DOMAIN-SUFFIX,pfgo.embyvip.xyz
 ## Warp用
   - DOMAIN-SUFFIX,cloudflare-gateway.com
 ## > paiza.jp的小游戏
