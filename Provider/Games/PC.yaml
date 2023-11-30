@@ -15,4 +15,3 @@ payload:
     # GenshinImpact 原神 By-ip_crawl_tool,231129
   - IP-CIDR,216.137.39.0/24
   - IP-CIDR,8.217.101.0/24
-  - IP-CIDR,81.19.104.0/24
