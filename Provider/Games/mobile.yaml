@@ -76,3 +76,11 @@ payload:
     # GenshinImpact 原神 By-ip_crawl_tool,231129
   - IP-CIDR,216.137.39.0/24
   - IP-CIDR,8.217.101.0/24
+  #Genshin Impact,['GenshinImpact.exe'],0,0,1,0,1,0,By-ip_crawl_tool,231202
+  - IP-CIDR,47.242.179.0/24
+  - IP-CIDR,65.8.161.0/24
+  - IP-CIDR,18.238.192.0/24
+  - IP-CIDR,8.211.158.0/24
+  - IP-CIDR,23.206.188.0/24
+  - IP-CIDR,180.153.81.0/24
+  - IP-CIDR,47.242.34.0/24
