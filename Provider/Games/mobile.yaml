@@ -72,3 +72,7 @@ payload:
   - DOMAIN-SUFFIX,jp.ffviiec.com
   ## > Tokyo 7th
   - DOMAIN-SUFFIX,t7s.jp
+  ## > genshin asia
+    # GenshinImpact 原神 By-ip_crawl_tool,231129
+  - IP-CIDR,216.137.39.0/24
+  - IP-CIDR,8.217.101.0/24
