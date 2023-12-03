@@ -1,5 +1,5 @@
 ### IPs：
 |  list   |  Game  | Note  |
 |  ---   | ---  | ---  |
-| genshin_asia-ipcidr | 🔛mobile.yaml | From UU加速器 |
-| FFXIV_US | 🔰none | From UU加速器 |
+| Genshin_asia | 🔛mobile.yaml | From UU加速器 / Asia_ONLY |
+| FFXIV_US | 🔰none | From UU加速器 / US_ONLY |
