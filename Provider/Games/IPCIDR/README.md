@@ -5,6 +5,6 @@
 
 |  list   |  Place  | Note  |
 |  ---   | ---  | ---  |
-| Genshin_asia | 🔛mobile.yaml | From UU加速器 / Asia _ONLY |
+| Genshin_asia | 🔰none | From UU加速器 / Asia _ONLY |
 | FFXIV_US | 🔰none | From UU加速器 / US _ONLY |
 | AoE_IV_SEA | 🔰none | From UU加速器 / South East Asia _ONLY |
