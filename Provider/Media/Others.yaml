@@ -1,10 +1,4 @@
 payload:
-## > ASMR
-  - DOMAIN-SUFFIX,asmr.one
-  - DOMAIN-SUFFIX,kiko-play-niptan.one
-  - DOMAIN-SUFFIX,asmr-100.com
-  - DOMAIN-SUFFIX,asmr-200.com
-  - DOMAIN-SUFFIX,asmr-300.com
 ## > music
   - DOMAIN-SUFFIX,mora.jp
   - DOMAIN-SUFFIX,deezer.com
