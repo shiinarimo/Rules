@@ -1,7 +1,0 @@
-payload:
-# fast测速域名
-#  - DOMAIN-SUFFIX,fast.com
-# Dler测速站
-  - DOMAIN-SUFFIX,speed.dler.io
-# Cloudflare测速
-#  - DOMAIN-SUFFIX,speed.cloudflare.com

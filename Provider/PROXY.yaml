@@ -12,8 +12,7 @@ payload:
   - DOMAIN-SUFFIX,genymotion.com
   - DOMAIN-SUFFIX,kemono.party
   - DOMAIN-SUFFIX,novelai.net
-  - DOMAIN-SUFFIX,gitbook.com
-  - DOMAIN-SUFFIX,jsdelivr.net
+  # - DOMAIN-SUFFIX,jsdelivr.net
   - DOMAIN-SUFFIX,skeb.jp
 ## ？？？
   - DOMAIN-SUFFIX,tagvpnglobal.com
@@ -57,7 +56,6 @@ payload:
   - DOMAIN-SUFFIX,ashampoo.net
   - DOMAIN-SUFFIX,japanpost.jp
   - DOMAIN-SUFFIX,doujinshi.org
-  - DOMAIN-SUFFIX,bluestacks.com
   - DOMAIN-SUFFIX,clcillinois.edu
   - DOMAIN-SUFFIX,goodsync.com
   - DOMAIN-SUFFIX,sakura-palace.co.jp
@@ -69,19 +67,15 @@ payload:
   - DOMAIN-SUFFIX,fosshub.com
 ## 買い物
   - DOMAIN-SUFFIX,jiku-chu.com
-  - DOMAIN-SUFFIX,suruga-ya.jp
   - DOMAIN-SUFFIX,melonbooks.co.jp
   - DOMAIN-SUFFIX,melonbooks.akamaized.net
-  - DOMAIN-SUFFIX,patreon.com
-  - DOMAIN-SUFFIX,patreonusercontent.com
-  - DOMAIN-SUFFIX,stripe.network
-  - DOMAIN-SUFFIX,onlyfans.com
-  - DOMAIN-SUFFIX,stripe.com
+  # - DOMAIN-SUFFIX,stripe.network
+  # - DOMAIN-SUFFIX,stripe.com
 ##甲骨文
   - DOMAIN-SUFFIX,oraclecloud.com
   - DOMAIN-SUFFIX,oracle.com
 ## 游戏mod
-  - DOMAIN-SUFFIX,curseforge.com
+  #- DOMAIN-SUFFIX,curseforge.com
 ##付费
 ##  - DOMAIN-SUFFIX,stripe.com
   - DOMAIN-SUFFIX,porkbun.com
@@ -100,7 +94,7 @@ payload:
 ## > V2EX //geosite:category-forums
 #  - DOMAIN-SUFFIX,v2ex.com
 ## > キントク
-  - DOMAIN-SUFFIX,gamepedia.jp
+  # - DOMAIN-SUFFIX,gamepedia.jp
 ## > FANTIA
   - DOMAIN-SUFFIX,fantia.jp
 ## > textfree
@@ -111,10 +105,10 @@ payload:
   - DOMAIN-SUFFIX,cfeucdn.com
   - DOMAIN-SUFFIX,streamtape.com
   - DOMAIN-SUFFIX,seeautumn.com
-  - DOMAIN-SUFFIX,adtidy.org
+  # - DOMAIN-SUFFIX,adtidy.org
   # - DOMAIN-SUFFIX,poe.com //geosite:quora
   # - DOMAIN-SUFFIX,poecdn.net
-  - DOMAIN-SUFFIX,sagernet.org
+  # - DOMAIN-SUFFIX,sagernet.org
   - DOMAIN-SUFFIX,greasyfork.org
 ## Qooapp
   - DOMAIN-SUFFIX,qoo-img.com

@@ -4,4 +4,4 @@ payload:
   # - DOMAIN-SUFFIX,cdn.bitdefender.net
   - DOMAIN,injections.adguard.org
   # provider
-  - DOMAIN,wqjbvw.lol
+  # - DOMAIN,wqjbvw.lol
