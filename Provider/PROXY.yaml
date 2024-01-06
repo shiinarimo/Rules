@@ -16,15 +16,15 @@ payload:
   - DOMAIN-SUFFIX,skeb.jp
 ## ？？？
   - DOMAIN-SUFFIX,tagvpnglobal.com
-  - DOMAIN-SUFFIX,dlercloud.com
+  # - DOMAIN-SUFFIX,dlercloud.com
   - DOMAIN-SUFFIX,dler.io
-  - DOMAIN-SUFFIX,nexitally.com
+  # - DOMAIN-SUFFIX,nexitally.com
   - DOMAIN-SUFFIX,amysecure.com
   - DOMAIN-SUFFIX,tagss01.pro
   - DOMAIN-SUFFIX,tagss.pro
-  - DOMAIN-SUFFIX,pfgo.embyvip.xyz
+  - DOMAIN-SUFFIX,embyvip.xyz
 ## Warp用
-  - DOMAIN-SUFFIX,cloudflare-gateway.com
+  # - DOMAIN-SUFFIX,cloudflare-gateway.com
 ## > paiza.jp的小游戏
   - DOMAIN-SUFFIX,vimeo.com
   - DOMAIN-SUFFIX,paiza.jp
