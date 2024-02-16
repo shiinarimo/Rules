@@ -118,3 +118,5 @@ payload:
 ## Game DL
   # コンパス
   - DOMAIN,cps-down.hangame.co.jp
+##--
+  - DOMAIN-SUFFIX,mikocon.com
