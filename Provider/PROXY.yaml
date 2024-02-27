@@ -120,3 +120,5 @@ payload:
   - DOMAIN,cps-down.hangame.co.jp
 ##--
   - DOMAIN-SUFFIX,mikocon.com
+## kagi
+  - DOMAIN-SUFFIX,kagi.com
