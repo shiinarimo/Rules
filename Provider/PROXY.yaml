@@ -122,3 +122,7 @@ payload:
   - DOMAIN-SUFFIX,mikocon.com
 ## kagi
   - DOMAIN-SUFFIX,kagi.com
+## bluesky
+  - DOMAIN-SUFFIX,bsky.social
+  - DOMAIN-SUFFIX,bsky.app
+  - DOMAIN-SUFFIX,bsky.network
