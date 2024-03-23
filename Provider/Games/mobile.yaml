@@ -1,4 +1,6 @@
 payload:
+  ##
+  - DOMAIN-SUFFIX,taptap.io
   ## World II World
   - DOMAIN,prd.nikoichi-api.quatroa.app
   - DOMAIN,prd-static.nikoichi.quatroa.app
