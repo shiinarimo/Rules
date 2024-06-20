@@ -1,4 +1,7 @@
 payload:
+  ## > 平台
+  # - GEOSITE,steam
+  # - GEOSITE,mojang
   ## > OSU！
   - DOMAIN-SUFFIX,ppy.sh
   ## > MahjongSoul

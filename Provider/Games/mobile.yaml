@@ -1,6 +1,10 @@
 payload:
   ##
   - DOMAIN-SUFFIX,taptap.io
+  - GEOSITE,cygames
+  - GEOSITE,bluearchive
+  - GEOSITE,hoyoverse
+  - GEOSITE,nikke
   ## World II World
   - DOMAIN,prd.nikoichi-api.quatroa.app
   - DOMAIN,prd-static.nikoichi.quatroa.app
