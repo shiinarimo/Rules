@@ -1,6 +1,7 @@
 payload:
 ## > esj封日韩ip
   - DOMAIN-SUFFIX,esjzone.cc
+  - DOMAIN-SUFFIX,esjzone.me
   - DOMAIN-SUFFIX,donmai.us
   - DOMAIN-SUFFIX,openai.com
   - DOMAIN-SUFFIX,ghost.io
