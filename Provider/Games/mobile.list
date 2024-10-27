@@ -1,0 +1,82 @@
+DOMAIN-SUFFIX,taptap.io
+  ## World II World
+DOMAIN,prd.nikoichi-api.quatroa.app
+DOMAIN,prd-static.nikoichi.quatroa.app
+DOMAIN,prd.nikoichi-cms.quatroa.app
+  ## 雀魂
+DOMAIN-SUFFIX,maj-soul.net
+  ## > 雀魂 国际
+DOMAIN-SUFFIX,maj-soul.com
+  ## idolmaster
+DOMAIN-SUFFIX,agrmt.channel.or.jp
+DOMAIN-SUFFIX,legal.bandainamcoent.co.jp
+DOMAIN-SUFFIX,enza.fun
+DOMAIN-SUFFIX,napp.catchingnow.com
+  ## D4DJ
+DOMAIN-SUFFIX,d4dj-groovy-mix.com
+DOMAIN-SUFFIX,d4dj-donuts.net
+  ## fate-go jp
+DOMAIN-SUFFIX,fate-go.jp
+  ## ミストレ
+DOMAIN-SUFFIX,mist-train-girls.com
+DOMAIN-SUFFIX,appsflyer.com
+  ## HeavenRurinsRed
+DOMAIN-SUFFIX,wfs.games
+  ## リステップ
+DOMAIN-SUFFIX,rst-game.com
+DOMAIN-SUFFIX,heytapmobi.com
+  ## > ブルーア－カイブ
+DOMAIN-SUFFIX,bluearchiveyostar.com
+DOMAIN-SUFFIX,bluearchive.jp
+  ## > IDOLY PRIDE アイドリープライド
+DOMAIN-SUFFIX,smbeat.com
+DOMAIN-SUFFIX,smbeat.jp
+DOMAIN-SUFFIX,octo-cloud.com
+DOMAIN-SUFFIX,game-idolypride.jp
+DOMAIN-SUFFIX,d2ilil7yh5oi1v.cloudfront.net
+  ## > BanG Dream!（バンドリ！）
+DOMAIN-SUFFIX,craftegg.jp
+  #- DOMAIN-SUFFIX,cloudfront.net  //包含在proxy规则
+  ## > プロジェクトセカイ カラフルステージ！
+DOMAIN-SUFFIX,sekai.colorfulpalette.org
+  ## > 艦これ （html5+android）
+DOMAIN-SUFFIX,urbanairship.com
+IP-CIDR,125.6.189.215/32
+IP-CIDR,203.104.209.7/32
+  ## > うま娘
+DOMAIN,prd-storage-app-umamusume.akamaized.net
+DOMAIN,prd-storage-game-umamusume.akamaized.net
+DOMAIN,prd-storage-umamusume.akamaized.net
+DOMAIN-SUFFIX,umamusume.jp
+  ## > dmmgames  
+DOMAIN-SUFFIX,dmmgames.com
+DOMAIN-SUFFIX,games.dmm.co.jp
+DOMAIN-SUFFIX,games.dmm.com
+  ## > ドルフィンウェーブ（test）
+DOMAIN,x-cdn-dolphin.marv-games.jp
+  ## > dmm マギアレコード（test）
+DOMAIN,dmm.magi-reco.com
+  ## > ブルリラS
+DOMAIN-SUFFIX,bluereflection-sun.gamecity.ne.jp
+  ## > 404 game reset
+DOMAIN-SUFFIX,404gr.com
+  ## > コンパス
+  # - DOMAIN,cps-down.hangame.co.jp
+DOMAIN,gslb-gamebase.nhncloudservice.com
+DOMAIN,api-logncrash.cloud.toast.com
+DOMAIN,api-push.cloud.toast.com
+DOMAIN,cps.nhn-playart.com
+  ## > レスレリアーナトリア
+DOMAIN-SUFFIX,resleriana.jp
+  ## > FF7 EC
+DOMAIN-SUFFIX,jp.ffviiec.com
+  ## > Tokyo 7th
+DOMAIN-SUFFIX,t7s.jp
+  ## > アンジュ·リリング
+DOMAIN-SUFFIX,ange-relink.net
+  ## > hazereverb
+DOMAIN-SUFFIX,hazereverb.jp
+  ## > 舟游
+DOMAIN-SUFFIX,yo-star.com
+  ## > 学園アイドルマスター
+DOMAIN-SUFFIX,game-gakuen-idolmaster.jp

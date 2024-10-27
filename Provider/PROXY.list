@@ -1,0 +1,131 @@
+##  访问加速用，可能不在gfwlist内
+##  PROXY 
+  # DOMAIN-SUFFIX,gitbook.io //geosite:category-dev
+DOMAIN-SUFFIX,wemod.com
+DOMAIN-SUFFIX,appmedia.jp
+DOMAIN-SUFFIX,crates.io
+DOMAIN-SUFFIX,metacubex.one
+DOMAIN-SUFFIX,deepl.com
+DOMAIN-SUFFIX,catixs.net
+DOMAIN-SUFFIX,polocloud.xyz
+DOMAIN-SUFFIX,genymotion.com
+DOMAIN-SUFFIX,kemono.party
+DOMAIN-SUFFIX,novelai.net
+  # - DOMAIN-SUFFIX,jsdelivr.net
+DOMAIN-SUFFIX,skeb.jp
+## ？？？
+DOMAIN-SUFFIX,tagvpnglobal.com
+  # - DOMAIN-SUFFIX,dlercloud.com
+DOMAIN-SUFFIX,dler.io
+  # - DOMAIN-SUFFIX,nexitally.com
+DOMAIN-SUFFIX,amysecure.com
+DOMAIN-SUFFIX,tagss01.pro
+DOMAIN-SUFFIX,tagss.pro
+DOMAIN-SUFFIX,embyvip.xyz
+## Warp用
+  # - DOMAIN-SUFFIX,cloudflare-gateway.com
+## > paiza.jp的小游戏
+DOMAIN-SUFFIX,vimeo.com
+DOMAIN-SUFFIX,paiza.jp
+## mastodon/pleroma
+DOMAIN-SUFFIX,shiina-rimo.cafe
+DOMAIN-SUFFIX,friends.cafe
+DOMAIN-SUFFIX,pawoo.net
+DOMAIN-SUFFIX,bangdream.space
+## > mastodon/pleroma/域名服务商
+DOMAIN-SUFFIX,hostdon.jp
+DOMAIN-SUFFIX,hostdon.ne.jp
+## bitdefender（test）
+DOMAIN-SUFFIX,bitdefender.net
+## piapro
+DOMAIN-SUFFIX,piapro.jp
+## 经济危机
+  # - DOMAIN-SUFFIX,okex.com
+  # - DOMAIN-SUFFIX,okx.com
+  # - DOMAIN-SUFFIX,hi.com
+DOMAIN-SUFFIX,lokalise.co
+DOMAIN-SUFFIX,pexpay.com
+##
+##DOMAIN-SUFFIX,theinitium.com
+DOMAIN-SUFFIX,webcull.com
+DOMAIN-SUFFIX,vroid.com
+DOMAIN-SUFFIX,notepad-plus-plus.org
+DOMAIN-SUFFIX,kaspersky.com
+DOMAIN-SUFFIX,ashampoo.com
+DOMAIN-SUFFIX,ashampoo.net
+DOMAIN-SUFFIX,japanpost.jp
+DOMAIN-SUFFIX,doujinshi.org
+DOMAIN-SUFFIX,clcillinois.edu
+DOMAIN-SUFFIX,goodsync.com
+DOMAIN-SUFFIX,sakura-palace.co.jp
+DOMAIN-SUFFIX,vvault.jp
+DOMAIN-SUFFIX,stablebit.com
+DOMAIN-SUFFIX,stablebit.cloud
+DOMAIN-SUFFIX,2dfan.com
+##fosshub
+DOMAIN-SUFFIX,fosshub.com
+## 買い物
+DOMAIN-SUFFIX,jiku-chu.com
+DOMAIN-SUFFIX,melonbooks.co.jp
+DOMAIN-SUFFIX,melonbooks.akamaized.net
+  # - DOMAIN-SUFFIX,stripe.network
+  # - DOMAIN-SUFFIX,stripe.com
+##甲骨文
+DOMAIN-SUFFIX,oraclecloud.com
+DOMAIN-SUFFIX,oracle.com
+## 游戏mod
+  #- DOMAIN-SUFFIX,curseforge.com
+##付费
+##DOMAIN-SUFFIX,stripe.com
+DOMAIN-SUFFIX,porkbun.com
+DOMAIN-SUFFIX,shiina.cafe
+DOMAIN-SUFFIX,o3o.ca
+DOMAIN-SUFFIX,cmx.im
+DOMAIN-SUFFIX,mas.to
+DOMAIN-SUFFIX,bgme.me
+DOMAIN-SUFFIX,patchouli.today
+DOMAIN-SUFFIX,mastodon.social
+DOMAIN-SUFFIX,wxw.moe
+DOMAIN-SUFFIX,octodon.social
+DOMAIN-SUFFIX,vocalodon.net
+## > booth //geosite:pixiv
+#- DOMAIN-SUFFIX,booth.pm
+## > V2EX //geosite:category-forums
+#DOMAIN-SUFFIX,v2ex.com
+## > キントク
+  # - DOMAIN-SUFFIX,gamepedia.jp
+## > FANTIA
+DOMAIN-SUFFIX,fantia.jp
+## > textfree
+DOMAIN-SUFFIX,textfree.us
+## other
+DOMAIN-SUFFIX,ytms.one
+DOMAIN-SUFFIX,tapecontent.net
+DOMAIN-SUFFIX,cfeucdn.com
+DOMAIN-SUFFIX,streamtape.com
+DOMAIN-SUFFIX,seeautumn.com
+  # - DOMAIN-SUFFIX,adtidy.org
+  # - DOMAIN-SUFFIX,poe.com //geosite:quora
+  # - DOMAIN-SUFFIX,poecdn.net
+  # - DOMAIN-SUFFIX,sagernet.org
+DOMAIN-SUFFIX,greasyfork.org
+## Qooapp
+DOMAIN-SUFFIX,qoo-img.com
+DOMAIN-SUFFIX,qoo-apk.com
+DOMAIN-SUFFIX,qoo-app.com
+DOMAIN-SUFFIX,qooapp.io
+## Game DL
+  # コンパス
+DOMAIN,cps-down.hangame.co.jp
+##--
+DOMAIN-SUFFIX,mikocon.com
+## kagi
+DOMAIN-SUFFIX,kagi.com
+## bluesky
+DOMAIN-SUFFIX,bsky.social
+DOMAIN-SUFFIX,bsky.app
+DOMAIN-SUFFIX,bsky.network
+## misaka
+DOMAIN-SUFFIX,misaka.io
+## offcloud download
+DOMAIN-SUFFIX,offcloud.com
