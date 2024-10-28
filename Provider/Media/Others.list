@@ -2,13 +2,5 @@
 DOMAIN-SUFFIX,mora.jp
 DOMAIN-SUFFIX,deezer.com
 DOMAIN-SUFFIX,dzcdn.net
-## > tsdm
-## - DOMAIN-KEYWORD,txdm.net
 ## > Kiite(キイテ)
 DOMAIN-SUFFIX,kiite.jp
-  # - DOMAIN-SUFFIX,sankaku.plus
-  # - DOMAIN-SUFFIX,sankakucomplex.com //geosite:category-porn
-## > cangku/cangku媒体
-##- DOMAIN-SUFFIX,cangku.io
-## > emby
-  # - DOMAIN-SUFFIX,misakaf.org
