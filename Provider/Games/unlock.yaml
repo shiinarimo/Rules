@@ -1,18 +1,47 @@
 payload:
-## For game unlock
-  #---------Unlocked by DNS----------#
-  ## > プロジェクトセカイ カラフルステージ！
-  #- DOMAIN-SUFFIX,sekai.colorfulpalette.org
-  ## > うま娘
-  #- DOMAIN,prd-storage-app-umamusume.akamaized.net
-  #- DOMAIN,prd-storage-game-umamusume.akamaized.net
-  #- DOMAIN,prd-storage-umamusume.akamaized.net
-  #- DOMAIN-SUFFIX,umamusume.jp
-  # - DOMAIN,api-umamusume.cygames.jp //?
-  # - DOMAIN-SUFFIX,cygames.jp  //?
-  # - DOMAIN-KEYWORD,umamusume  //?
-  #---------------End-----------------#
-   ## > 艦これ （html5+android）
-  - DOMAIN-SUFFIX,urbanairship.com
-  - IP-CIDR,125.6.189.215/32
-  - IP-CIDR,203.104.209.7/32
+# For game unlock
+## > 艦これ
+  # Unlock
+  - IP-CIDR,203.104.209.7/32,no-resolve
+  # サーバー
+  # 1	横須賀鎮守府
+  - IP-CIDR,203.104.209.71/32,no-resolve
+  # 2	呉鎮守府
+  - IP-CIDR,203.104.209.87/32,no-resolve
+  # 3	佐世保鎮守府
+  - IP-CIDR,125.6.184.215/32,no-resolve
+  # 4	舞鶴鎮守府
+  - IP-CIDR,203.104.209.183/32,no-resolve
+  # 5	大湊警備府
+  - IP-CIDR,203.104.209.150/32,no-resolve
+  # 6	トラック泊地
+  - IP-CIDR,203.104.209.134/32,no-resolve
+  # 7	リンガ泊地
+  - IP-CIDR,203.104.209.167/32,no-resolve
+  # 8	ラバウル基地
+  - IP-CIDR,203.104.209.199/32,no-resolve
+  # 9	ショートランド泊地
+  - IP-CIDR,125.6.189.7/32,no-resolve
+  # 10	ブイン基地
+  - IP-CIDR,125.6.189.39/32,no-resolve
+  # 11	タウイタウイ泊地
+  - IP-CIDR,125.6.189.71/32,no-resolve
+  # 12	パラオ泊地
+  - IP-CIDR,125.6.189.103/32,no-resolve
+  # 13	ブルネイ泊地
+  - IP-CIDR,125.6.189.135/32,no-resolve
+  # 14	単冠湾泊地
+  - IP-CIDR,125.6.189.167/32,no-resolve
+  # 15	幌筵泊地
+  - IP-CIDR,125.6.189.215/32,no-resolve
+  # 16	宿毛湾泊地
+  - IP-CIDR,125.6.189.247/32,no-resolve
+  # 17	鹿屋基地
+  - IP-CIDR,203.104.209.23/32,no-resolve
+  # 18	岩川基地
+  - IP-CIDR,203.104.209.39/32,no-resolve
+  # 19	佐伯湾泊地
+  - IP-CIDR,203.104.209.55/32,no-resolve
+  # 20	柱島泊地
+  - IP-CIDR,203.104.209.102/32,no-resolve
+## >--------------------------
