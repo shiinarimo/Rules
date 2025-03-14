@@ -6,3 +6,5 @@
 @@||fota5s.adups.com^$important
 # 修复abema等使用SDK的app无法播放
 @@||imasdk.googleapis.com^$important
+# DMM相关域名
+@@||tracking.games.dmm.com^$important
