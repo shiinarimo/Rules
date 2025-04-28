@@ -1,6 +1,7 @@
 payload:
 # For game unlock
 ## > 艦これ
+  - DOMAIN-SUFFIX,kancolle-server.com
   # Unlock
   - IP-CIDR,203.104.209.7/32,no-resolve
   # サーバー
